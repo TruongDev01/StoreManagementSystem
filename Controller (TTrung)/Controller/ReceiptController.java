@@ -13,7 +13,6 @@ import java.util.Scanner;
 public class ReceiptController {
 	private Database database;
 	private History history;
-	private int id = 1;
 	public ReceiptController (Database database, History history) {
 		this.database = database;
 		this.history = history;
@@ -24,17 +23,26 @@ public class ReceiptController {
 		if(employee == null)
 			return null;
 		
+		String id;
 		double total = 0;
 		Scanner input = new Scanner(System.in);
 		Receipt recept = new Receipt();
+		System.out.println("Input receipt ID: ");
+		id = input.nextLine();
+		while(database.findReceiptByID(id) != null)
+		{
+			System.out.println("This receipt ID has already exist!");
+			System.out.println("Input receipt ID: ");
+			id = input.nextLine();
+		}
 		receipt.setID(id);
 		id++;
 		receipt.setCashier(employee);
 		
 		List<Product> products = new List<Product>;
-		System.out.println("Input product ID: (end by 0)");
-		int productId = input.nextInt();
-		while(productId != 0)
+		System.out.println("Input product ID: (end by #)");
+		String productId = input.nextLine();
+		while(!productId.equals("#"))
 		{
 			Product product = findProductByID(productId);
 			if(product != NULL)
@@ -65,7 +73,7 @@ public class ReceiptController {
 		
 		if(payment == 1) 
 		{
-			System.out.println("Paid:");
+			System.out.println("Paid :");
 			double paid = input.nextDouble();
 			receipt.setPaid(paid);
 			receipt.setChange(total - paid);
@@ -114,7 +122,7 @@ public class ReceiptController {
 		}
 	}
 	
-	public void ReadCashierRecept(int cashierID)
+	public void ReadCashierRecept(String cashierID)
 	{
 		Employee cashier = database.findEmloyeeByID(cashierID);
 		if(cashier == null)
@@ -126,15 +134,20 @@ public class ReceiptController {
 		List<Receipt> receipts = history.getReceiptHistory();
 		for(Receipt receipt : receipts)
 		{
-			if(cashier.equal(receipt.getCashier()))
+			if(cashier.equals(receipt.getCashier()))
 				ReadReceipt(receipt);
 		}
 	}
-	public void DeleteReceipt(int receiptId)
+	public void DeleteReceipt(String receiptId)
 	{
 		Receipt receipt = database.findReceiptByID(receiptId);
+		if(receipt == null) 
+		{
+			System.out.println("Cannot find receipt with thay ID!");
+			return;
+		}
 		List<Receipt> receipts = database.getReceipt();
 		receipts.remove(receipt);
-		databse.loadReceipt(receipts);
+		database.loadReceipt(receipts);
 	}
 }

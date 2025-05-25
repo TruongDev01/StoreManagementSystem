@@ -21,12 +21,12 @@ public class SystemController implements Option{
 			Scanner input = new Scanner(System.in);
 			System.out.println("---------------------------------LOGIN--------------------------------");
 			System.out.print("ID : ");
-			int id = input.nextInt();
+			String id = input.nextLine();
 			System.out.print("Password : ");
 			String password = input.nextLine();
 			System.out.println("----------------------------------------------------------------------");
 			employee = database.findEmployeeByID(id);
-			if(employee != null)
+			if(employee != null && password.equals(employee.getPassword()))
 			{
 				System.out.println("You're connect by " + employee.getName);
 				return employee;
