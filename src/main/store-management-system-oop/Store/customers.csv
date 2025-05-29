@@ -1,0 +1,5 @@
+id,name,email,password
+1,Alice Smith,alice@example.com,passAlice123
+2,Bob Johnson,bob@example.com,passBob456
+3,Charlie Nguyen,charlie@example.com,passCharlie789
+4,1,1,1

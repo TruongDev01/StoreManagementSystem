@@ -10,6 +10,8 @@ public class Database {
     private ArrayList<Employee> employees = new ArrayList<>();
     private ArrayList<Product> products = new ArrayList<>();
     private ArrayList<Receipt> receipts = new ArrayList<>();
+    private ArrayList<Customer> customers = new ArrayList<>();
+
 
     public ArrayList<Employee> getEmployees() {
         return employees;
@@ -23,21 +25,33 @@ public class Database {
         return receipts;
     }
 
+    public ArrayList<Customer> getCustomers() {
+        return customers;
+    }
+
     public Product findProductById(String id) {
-        return products.stream().filter(p -> p.getID().equals(id)).findFirst().orElse(null);
+        String normalizedInput = id.trim().toUpperCase(); // Không bỏ số 0, chỉ xử lý hoa thường và khoảng trắng
+        return products.stream()
+                .filter(p -> p.getID().trim().toUpperCase().equals(normalizedInput))
+                .findFirst()
+                .orElse(null);
     }
 
     public Employee findEmployeeById(String id) {
         return employees.stream().filter(e -> e.getID().equals(id)).findFirst().orElse(null);
+    }
+    private String normalizeId(String originalId) {
+        return originalId.trim().toUpperCase().replaceFirst("^0+(?!$)", "");
     }
 
     public Receipt findReceiptById(String id) {
         return receipts.stream().filter(p -> p.getID().equals(id)).findFirst().orElse(null);
     }
 
-    public void loadData(String employeeFilePath, String productFilePath, Database database, History history) {
+    public void loadData(String employeeFilePath, String productFilePath,String customerFilePath, Database database, History history) {
         loadEmployees(employeeFilePath, database, history);
         loadProducts(productFilePath, database, history);
+        loadCustomers(customerFilePath,database);
     }
 
     public void loadEmployees(String fileName, Database database, History history) {
@@ -120,6 +134,33 @@ public class Database {
             }
         } catch (Exception e) {
             System.err.println("Error reading product file:");
+            e.printStackTrace();
+        }
+    }
+
+    public void loadCustomers(String fileName, Database database) {
+        try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
+            String line = br.readLine(); // Bỏ qua dòng tiêu đề
+
+            while ((line = br.readLine()) != null) {
+                String[] values = line.split(",");
+                if (values.length < 4) {
+                    System.out.println("Invalid customer data format: " + line);
+                    continue;
+                }
+
+                String id = values[0];
+                String name = values[1];
+                String email = values[2];
+                String password = values[3];
+
+                Customer customer = new Customer(id, name, email,password);
+                database.getCustomers().add(customer);
+            }
+
+
+        } catch (Exception e) {
+            System.err.println("Error reading customer file:");
             e.printStackTrace();
         }
     }

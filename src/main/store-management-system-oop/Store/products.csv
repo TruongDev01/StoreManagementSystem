@@ -1,16 +1,1001 @@
 ID,Name,PurchasePrice,SellingPrice,Quantity,Type,AdditionalInfo1,AdditionalInfo2
-TOY1,Lego Classic,350000.0,500000.0,50,Toy,LEGO,6+
-TOY2,3-Wheel Scooter,500000.0,700000.0,30,Toy,Globber,12+
-TOY3,Barbie Fashionista Doll,300000.0,450000.0,40,Toy,Mattel,0+
-TOY4,Mini Cooking Playset,150000.0,250000.0,100,Toy,Fisher-Price,6+
-TOY5,Remote-Controlled Robot,800000.0,1200000.0,20,Toy,Xiaomi,12+
-ST1,Thiên Long Ballpoint Pen,2000.0,5000.0,100,Stationary,Thiên Long,Ballpoint Pen
-ST2,Office Notebook,20000.0,35000.0,100,Stationary,Campus,Notebook
-ST3,Paper Cutting Scissors,10000.0,25000.0,30,Stationary,Deli,Scissors
-ST4,Transparent Tape 5cm x 100m,8000.0,18000.0,200,Stationary,Scotch,Tape
-ST5,Whiteboard Marker,5000.0,12000.0,50,Stationary,Thiên Long,Marker
-BK1,Harry Potter and the Philosopher's Stone,100000.0,150000.0,200,Book,Bloomsbury,J.K.Rowling
-BK2,How to Win Friends and Influence People,60000.0,90000.0,300,Book,First News,Dale Carnegie
-BK3,Sapiens: A Brief History of Humankind,140000.0,200000.0,150,Book,HarperCollins,Yuval Noah Harari
-BK4,The Diary of Anne Frank,80000.0,120000.0,100,Book,Bantam,Anne Frank
-BK5,Outliers,130000.0,180000.0,120,Book,Brown and Company,Malcolm Gladwell
+ST7,Notebook Number,414000.0,512000.0,47,Stationary,Lindsey-Deleon,Thomas Noble
+ST8,Marker Life,354000.0,490000.0,366,Stationary,"Austin, Summers and Craig",Erik Willis
+TO7,Scooter Five,485000.0,667000.0,431,Toy,"Anderson, Harris and Martinez",Destiny Carrillo
+ST9,Marker We,401000.0,673000.0,390,Stationary,Haynes-Flores,Whitney Taylor
+BO7,Biography Wonder,438000.0,639000.0,270,Book,Tran Ltd,Miguel Martin
+BO8,History Compare,63000.0,96000.0,422,Book,"Johnson, Nichols and Liu",Kelsey Quinn
+ST10,Scissors Serious,149000.0,231000.0,121,Stationary,Bryant-Smith,David Mccullough
+BO9,Biography Standard,299000.0,415000.0,25,Book,Jackson-Hester,Rachel Avila
+BO10,Self-help Tree,342000.0,477000.0,163,Book,"Powell, Henry and Henry",Joseph Ramsey
+BO11,History Record,456000.0,761000.0,273,Book,Nguyen LLC,Arthur Murray
+BO12,Biography Fly,490000.0,797000.0,329,Book,"Davis, Williams and Thompson",Jason Andrade
+TO8,Barbie Doll Begin,15000.0,27000.0,481,Toy,Hubbard-Walls,Anthony Johnson
+BO13,History Enjoy,406000.0,584000.0,167,Book,Mendez PLC,Kevin Williams
+TO9,Drone Dark,276000.0,349000.0,273,Toy,Gilbert Ltd,Kristin Ingram
+TO10,Drone Stand,181000.0,292000.0,189,Toy,Lee LLC,Michelle Deleon
+TO11,Barbie Doll Reveal,444000.0,627000.0,257,Toy,Guerrero-Edwards,Jesus Diaz
+BO14,Self-help Memory,459000.0,631000.0,254,Book,"Scott, Moore and Shepherd",Mary Simpson
+TO12,Playset Life,449000.0,685000.0,392,Toy,Jimenez-Johnson,Kyle Spence
+BO15,Biography New,145000.0,204000.0,82,Book,Ferguson-Gutierrez,Christy Williams
+ST11,Marker Value,402000.0,656000.0,270,Stationary,Wood-Ford,Tammie Oconnor
+TO13,Drone Summer,118000.0,163000.0,350,Toy,Rios and Sons,Cynthia Bailey
+BO16,Biography Let,101000.0,126000.0,334,Book,"Chung, Chavez and Smith",Brandon King
+BO17,Sci-Fi As,282000.0,397000.0,209,Book,"Mendez, Spencer and Baker",Eric Butler
+BO18,History Most,144000.0,247000.0,495,Book,Little-Ross,Richard Salinas
+BO19,Biography Life,343000.0,604000.0,14,Book,"Harrell, Fernandez and Parker",Maria Fuller
+ST12,Tape Experience,132000.0,188000.0,355,Stationary,Harris PLC,James Nelson
+BO20,Biography Green,43000.0,57000.0,75,Book,"Hodge, Arias and Bentley",Keith Johnson
+ST13,Scissors Service,176000.0,214000.0,106,Stationary,Delacruz Ltd,Matthew Higgins
+ST14,Notebook Writer,92000.0,110000.0,98,Stationary,Lane and Sons,Kenneth Hawkins
+ST15,Marker Picture,83000.0,130000.0,89,Stationary,Love-Flowers,Raymond Johnson
+TO14,Barbie Doll Week,472000.0,819000.0,91,Toy,Stewart-Brewer,George Smith
+TO15,Drone Result,312000.0,542000.0,479,Toy,Howell-Mullins,Travis Sweeney
+BO21,Fantasy Different,23000.0,40000.0,319,Book,"Gilbert, Williams and Rasmussen",Kevin Daniel
+BO22,Fantasy New,79000.0,97000.0,50,Book,Scott Group,Sharon Contreras
+BO23,Mystery Novel Still,73000.0,121000.0,427,Book,Walker LLC,Jonathan Glover
+TO16,Lego Set There,213000.0,285000.0,45,Toy,Ross Group,Michelle Bowers
+ST16,Stapler Here,136000.0,238000.0,96,Stationary,"Williams, Moore and Taylor",Katherine Cortez
+BO24,Mystery Novel Newspaper,229000.0,369000.0,437,Book,Smith-Kelly,Jay Williams
+BO25,History Television,396000.0,644000.0,277,Book,Johnson-Cannon,Linda Brooks
+ST17,Notebook Resource,452000.0,773000.0,492,Stationary,Patterson Group,Stephanie Fleming
+ST18,Tape Use,31000.0,46000.0,92,Stationary,Chang-Lewis,Mr. Tony Young
+BO26,Mystery Novel Class,148000.0,190000.0,273,Book,Rollins-Bryan,Edward Lucero
+ST19,Notebook Mr,339000.0,605000.0,196,Stationary,"Frank, Berry and Mcdaniel",Bradley Mckee
+TO17,Drone Institution,98000.0,140000.0,227,Toy,"Dixon, Hughes and Nelson",Kevin Miles
+BO27,History Health,20000.0,26000.0,292,Book,Clay-Boyer,Eric Wilson
+BO28,Mystery Novel Leg,124000.0,216000.0,427,Book,"Hawkins, Wade and Allen",Sheila West
+TO18,RC Car Medical,96000.0,124000.0,433,Toy,"Smith, Jones and Hamilton",Martha Goodman
+BO29,Fantasy Finish,201000.0,348000.0,433,Book,"King, Gomez and Moreno",Shane Allen
+ST20,Notebook Operation,378000.0,605000.0,57,Stationary,Alvarez PLC,Jose Hernandez
+TO19,Playset Home,473000.0,721000.0,94,Toy,"Padilla, Torres and Thomas",George Escobar
+TO20,RC Car Off,314000.0,470000.0,240,Toy,"Sanchez, Rogers and Henderson",Nathan Rose
+TO21,Barbie Doll Chair,361000.0,633000.0,315,Toy,Young-Walters,Kevin Wilkins
+TO22,Drone Like,374000.0,544000.0,126,Toy,Moreno-White,Cynthia Fowler
+ST21,Pen Country,395000.0,687000.0,332,Stationary,Chan-Diaz,Donna Quinn
+ST22,Scissors Memory,213000.0,345000.0,178,Stationary,Hall-Lucas,Kevin Hanna
+BO30,Biography Rise,388000.0,560000.0,123,Book,Bullock-Benitez,Christopher Morales
+BO31,Fantasy North,22000.0,39000.0,384,Book,Jones-Jordan,Mary Pearson
+BO32,Self-help Agency,485000.0,610000.0,391,Book,Harrison Inc,Diamond Price
+TO23,Playset Writer,431000.0,736000.0,153,Toy,Johnson PLC,Brian Bush
+TO24,Drone Employee,445000.0,601000.0,213,Toy,Roberts-Wheeler,Amanda Taylor
+ST23,Tape Effect,265000.0,433000.0,171,Stationary,"Strickland, Martin and Ramirez",Victoria Brown
+TO25,Barbie Doll None,172000.0,309000.0,155,Toy,Anderson-Peterson,Brandon Bradford
+ST24,Pen Occur,344000.0,492000.0,393,Stationary,Young-Nguyen,Meagan Lowe
+TO26,Barbie Doll Edge,390000.0,609000.0,492,Toy,"Mueller, Black and Shields",Yvette Lee
+TO27,Drone Design,328000.0,547000.0,477,Toy,"Barnes, Lindsey and Mitchell",Jason Wells
+ST25,Tape Order,161000.0,225000.0,63,Stationary,"Martinez, Aguirre and Rodriguez",Johnny Evans
+ST26,Tape National,498000.0,711000.0,267,Stationary,Mcguire-Davis,Martin Anderson
+ST27,Tape Avoid,414000.0,649000.0,405,Stationary,Garza Ltd,Sara Mays
+TO28,Lego Set Decade,231000.0,312000.0,465,Toy,Vega-Pollard,William Miller
+BO33,Sci-Fi Trial,416000.0,712000.0,27,Book,Leblanc PLC,Mercedes Rogers
+BO34,Self-help Help,453000.0,555000.0,171,Book,"Carney, Bowman and Mckay",Rachel Clark
+ST28,Scissors Better,278000.0,429000.0,489,Stationary,Johnson-Carey,Sarah Murphy
+BO35,Mystery Novel Behind,429000.0,618000.0,20,Book,Johnson-Turner,Cody Estrada
+BO36,Sci-Fi Fear,493000.0,647000.0,191,Book,"Nunez, Park and Velazquez",Daniel Phillips
+ST29,Scissors Easy,244000.0,411000.0,356,Stationary,"Davis, Andrews and Taylor",Michelle Prince
+BO37,Mystery Novel Happen,408000.0,628000.0,53,Book,"Medina, Hoffman and Gray",Thomas Washington
+ST30,Notebook Write,381000.0,495000.0,142,Stationary,Park-Baker,Sean Riley
+TO29,RC Car Recognize,41000.0,72000.0,132,Toy,Vazquez-Pham,Kevin Jacobs
+ST31,Marker First,54000.0,78000.0,148,Stationary,Jones-Gentry,Christopher Hayes
+BO38,Fantasy Half,394000.0,582000.0,47,Book,Rodriguez Ltd,Hannah Griffin
+ST32,Stapler Establish,291000.0,381000.0,177,Stationary,Perry-Gibson,Anne Hart
+ST33,Marker Tax,44000.0,74000.0,322,Stationary,Washington Ltd,Christina Brennan
+BO39,History Area,454000.0,635000.0,160,Book,Mckenzie-Edwards,Timothy Powell
+TO30,Playset Good,126000.0,201000.0,403,Toy,"Miller, Weaver and Brown",Brandon Harris
+ST34,Tape Attorney,175000.0,290000.0,368,Stationary,Douglas PLC,Kelly Randall
+TO31,Barbie Doll Choice,156000.0,241000.0,104,Toy,Jones-Wilson,Kathy Johnson
+BO40,History Walk,127000.0,194000.0,320,Book,Baker-Poole,Ryan Allen
+ST35,Pen Group,59000.0,73000.0,242,Stationary,Chandler PLC,Barbara Herman
+ST36,Marker Room,405000.0,524000.0,211,Stationary,Murillo Inc,Steven White
+ST37,Stapler Relate,323000.0,401000.0,281,Stationary,Carlson-Miller,Lawrence Rodriguez
+TO32,Drone Ahead,235000.0,373000.0,135,Toy,Wilson LLC,James Harris
+BO41,Biography Remain,408000.0,638000.0,121,Book,Phillips-Green,Amanda Lawrence DDS
+BO42,Self-help About,289000.0,406000.0,416,Book,"Walker, Edwards and Nunez",James Chavez
+ST38,Stapler Election,222000.0,372000.0,386,Stationary,Wallace LLC,Christopher Jordan
+ST39,Stapler Run,453000.0,742000.0,171,Stationary,"Johns, Bush and Norman",Kenneth James
+BO43,Sci-Fi Enter,202000.0,353000.0,243,Book,Hamilton-Anderson,Amanda Franklin
+BO44,Biography Understand,301000.0,518000.0,64,Book,"Green, Martinez and Robles",Anthony Carrillo
+ST40,Notebook Take,232000.0,348000.0,476,Stationary,"Woodard, Scott and Rodriguez",Richard Sosa
+ST41,Tape Before,381000.0,559000.0,434,Stationary,"Bell, Fernandez and Fernandez",William Clarke
+ST42,Pen Require,87000.0,107000.0,383,Stationary,Bolton-Day,Wendy Wright
+BO45,Sci-Fi Raise,106000.0,187000.0,456,Book,Garcia-Wilson,Jordan Drake
+BO46,History Center,416000.0,642000.0,130,Book,"Zavala, Porter and Morgan",Lisa Carroll
+TO33,Playset Whose,9000.0,13000.0,346,Toy,Lang-Daniel,Lisa Thomas
+BO47,Biography Them,181000.0,275000.0,338,Book,Schultz LLC,Justin Sullivan
+ST43,Tape Decision,207000.0,337000.0,168,Stationary,"Larson, Little and Jones",Joseph Flowers
+TO34,Lego Set Blue,232000.0,329000.0,215,Toy,Jones-Thomas,Jacqueline Walker
+TO35,RC Car Cup,129000.0,195000.0,439,Toy,Reed Inc,Michael Beard
+BO48,Mystery Novel Particular,315000.0,435000.0,255,Book,"Perkins, Meyers and Quinn",Steven Nielsen
+TO36,Scooter But,236000.0,374000.0,482,Toy,Conley-Chase,Ryan Boyd
+ST44,Scissors Hold,223000.0,288000.0,374,Stationary,"Frederick, Little and Duke",Isaac Valdez
+BO49,Mystery Novel Stuff,75000.0,120000.0,104,Book,Johnston PLC,Anita Black
+ST45,Notebook Station,156000.0,190000.0,258,Stationary,Wilson Group,Michelle Everett
+BO50,Mystery Novel Measure,494000.0,813000.0,420,Book,Clark and Sons,Emily Morris
+BO51,Sci-Fi Power,329000.0,445000.0,85,Book,Carter Ltd,Michael Parsons
+BO52,Mystery Novel Century,350000.0,542000.0,407,Book,"Rosales, Fox and Hansen",Mark Poole
+BO53,Self-help Every,36000.0,48000.0,222,Book,Oneill Group,Leslie Gonzalez
+TO37,RC Car Wrong,500000.0,892000.0,329,Toy,"Gross, Ramirez and Cervantes",Eric Rios
+ST46,Pen Phone,483000.0,729000.0,268,Stationary,Spencer-Dunn,Cole Foster
+TO38,Drone Again,152000.0,186000.0,329,Toy,"Fisher, Lopez and Jones",Heather Hernandez
+ST47,Stapler Skin,39000.0,66000.0,294,Stationary,Kennedy-Webb,Kelli Cook
+ST48,Scissors Choose,369000.0,491000.0,93,Stationary,"Anderson, Thompson and Sexton",Daniel Berry
+BO54,Fantasy Part,369000.0,619000.0,173,Book,Walker Inc,Jonathon Thompson
+TO39,Scooter Game,308000.0,398000.0,120,Toy,"Cruz, Wilson and Gomez",Michael Ramsey
+TO40,Barbie Doll Popular,126000.0,156000.0,491,Toy,Adams-Dean,Frank King
+BO55,Mystery Novel Most,450000.0,630000.0,282,Book,Mitchell-Higgins,Ricky Crane
+TO41,Barbie Doll Senior,327000.0,411000.0,343,Toy,"Robertson, Payne and Garcia",April Gaines
+TO42,Lego Set Thing,270000.0,478000.0,149,Toy,Frederick-Haley,Andrew Perry
+TO43,Lego Set Seem,141000.0,249000.0,219,Toy,Stone PLC,Benjamin Watkins
+TO44,RC Car Father,41000.0,67000.0,30,Toy,Kidd Inc,Jennifer Faulkner
+BO56,Sci-Fi Boy,397000.0,581000.0,403,Book,"Walker, Thompson and Gibbs",John Pace
+BO57,History Whose,436000.0,741000.0,70,Book,"Newton, Wright and Kelly",Brittney Brady
+BO58,Biography Over,341000.0,595000.0,262,Book,Wright-Stokes,Wanda Jones
+BO59,Mystery Novel Year,489000.0,786000.0,480,Book,"Marshall, Hernandez and Arnold",Michelle Reid
+ST49,Tape Arm,471000.0,629000.0,146,Stationary,Mccoy and Sons,Christina Nichols
+ST50,Marker Local,180000.0,315000.0,284,Stationary,"Schmidt, Waters and Wallace",Dr. Ethan Calhoun
+TO45,Lego Set Any,83000.0,145000.0,440,Toy,"Morris, James and Woods",Kimberly Gutierrez
+TO46,Scooter According,312000.0,419000.0,396,Toy,Martin Group,Lisa Davis
+ST51,Notebook Prove,69000.0,98000.0,137,Stationary,"Chambers, Ryan and Wilson",Carl Williams
+ST52,Notebook Move,285000.0,346000.0,498,Stationary,Robinson-Mcneil,Judith Weber
+ST53,Stapler Hospital,287000.0,437000.0,449,Stationary,"Harper, Booker and Vargas",Jillian Chavez
+ST54,Tape Return,391000.0,595000.0,398,Stationary,"Leblanc, Carter and Ryan",James Newton
+ST55,Tape Type,192000.0,345000.0,48,Stationary,King-George,Joann Quinn
+ST56,Scissors Inside,455000.0,632000.0,231,Stationary,"Compton, Santos and Chapman",Brittany Ramirez
+ST57,Pen West,355000.0,550000.0,62,Stationary,Colon-Gutierrez,Billy Campbell
+ST58,Notebook Remember,400000.0,528000.0,351,Stationary,Blanchard Group,Zachary Tran
+ST59,Tape Air,14000.0,18000.0,77,Stationary,"Rivera, King and Aguirre",Brian Nguyen
+TO47,Playset Across,459000.0,734000.0,29,Toy,"Little, Estrada and Valencia",Colton Davenport
+BO60,Sci-Fi Generation,86000.0,134000.0,72,Book,"Rodriguez, Jensen and Anderson",Melissa Scott
+BO61,Self-help Hospital,193000.0,265000.0,88,Book,Green and Sons,Chelsea Mann
+ST60,Scissors Beat,436000.0,773000.0,493,Stationary,"Ellis, Cole and Smith",Peter Jarvis
+ST61,Marker Explain,473000.0,776000.0,383,Stationary,"Carpenter, Willis and Smith",Justin Jackson
+ST62,Tape Month,318000.0,390000.0,182,Stationary,Perry Group,Christopher Schneider
+TO48,Playset Chance,114000.0,176000.0,135,Toy,"Lamb, Erickson and Le",Richard Vaughn
+ST63,Stapler Movement,51000.0,88000.0,412,Stationary,"Dickson, Gardner and Davies",Susan Fuentes
+TO49,Scooter Likely,206000.0,282000.0,15,Toy,Neal Group,Evelyn Tyler
+BO62,Fantasy Position,39000.0,53000.0,489,Book,"Stokes, Sanchez and Dawson",Elizabeth Smith
+TO50,Playset Interest,461000.0,602000.0,458,Toy,"Maldonado, Zavala and Richardson",Jason Robles
+TO51,Playset Control,58000.0,90000.0,133,Toy,Gomez-Weber,Amanda Turner
+TO52,Lego Set Song,198000.0,303000.0,129,Toy,Evans Ltd,Ricky Dennis
+TO53,Scooter Important,7000.0,12000.0,363,Toy,Bryant and Sons,Michael Rice
+ST64,Pen Across,189000.0,234000.0,271,Stationary,Garcia and Sons,Mrs. Janet Beard
+ST65,Tape Level,195000.0,337000.0,222,Stationary,Moreno-Wilson,Sonya Shannon
+TO54,Lego Set Clear,466000.0,575000.0,80,Toy,Robertson-Cooper,Jason Lozano
+BO63,Mystery Novel Help,313000.0,448000.0,144,Book,"Medina, Benjamin and Bradley",Adrienne Long
+TO55,Scooter Religious,134000.0,188000.0,188,Toy,Anderson-Hooper,Christopher Cox
+ST66,Scissors Education,393000.0,563000.0,436,Stationary,Williams-Owens,Rachel Watson
+BO64,Mystery Novel Energy,279000.0,406000.0,493,Book,Alexander-Moses,David Odonnell
+TO56,Playset Than,354000.0,501000.0,479,Toy,Green-Martin,Rita Bolton
+BO65,Self-help Kind,394000.0,601000.0,170,Book,Herrera-Garcia,David Moore
+TO57,Playset Hear,66000.0,103000.0,475,Toy,"Salinas, Patel and Cook",Natasha Fuller
+BO66,Mystery Novel Area,368000.0,577000.0,228,Book,"Myers, Thompson and Dunlap",Ronald Russo
+BO67,History Until,352000.0,594000.0,115,Book,Robinson PLC,James Reynolds
+TO58,Playset Above,213000.0,322000.0,100,Toy,Pierce-Morales,Tina Alvarado
+ST67,Scissors Every,455000.0,618000.0,260,Stationary,Glenn-Melendez,Heather Martinez
+ST68,Tape But,283000.0,426000.0,201,Stationary,Lin Ltd,Molly Cox
+ST69,Notebook Take,62000.0,95000.0,378,Stationary,Moore-Cross,Katherine Hamilton
+TO59,Drone Happy,223000.0,277000.0,118,Toy,"Baker, Wade and Rodriguez",Jill Foley
+ST70,Marker Political,324000.0,487000.0,104,Stationary,"Navarro, Hernandez and Clarke",Vanessa Chase
+TO60,Lego Set Poor,415000.0,667000.0,116,Toy,"Taylor, Rodgers and Smith",John Scott
+BO68,Self-help Finish,82000.0,102000.0,363,Book,Sosa-Schroeder,Donna Bowman
+ST71,Stapler Evening,93000.0,163000.0,243,Stationary,"Walls, Baldwin and Davis",Diana Francis
+TO61,Playset Shoulder,486000.0,713000.0,114,Toy,Morton-Gutierrez,Crystal Crawford
+TO62,Drone Right,324000.0,503000.0,321,Toy,Ellison Group,John Simmons
+BO69,Sci-Fi Popular,169000.0,233000.0,453,Book,"King, Garner and Massey",Mark Woods
+TO63,Playset Produce,331000.0,457000.0,71,Toy,Mcconnell-Johnson,Kyle Ball
+BO70,Fantasy Defense,33000.0,55000.0,403,Book,Cowan and Sons,Sharon Martinez
+ST72,Pen Per,318000.0,513000.0,82,Stationary,"Vance, Irwin and Martin",Joseph Gross
+ST73,Tape Statement,479000.0,728000.0,134,Stationary,"Roberts, Clayton and Alvarez",Caitlin Montes
+TO64,Scooter Raise,306000.0,497000.0,239,Toy,Sanchez-Calderon,Brian Price
+BO71,History Follow,132000.0,162000.0,270,Book,Anderson Inc,Jamie Baker
+TO65,RC Car Focus,343000.0,456000.0,496,Toy,Smith and Sons,Stuart Olsen
+BO72,Mystery Novel It,279000.0,364000.0,141,Book,"Hunt, Gregory and Rangel",Henry Mosley
+BO73,Fantasy Here,382000.0,613000.0,323,Book,Davidson PLC,Marie Bush
+TO66,RC Car Course,425000.0,659000.0,190,Toy,"Martin, Martinez and Mayo",Joseph Francis
+TO67,Barbie Doll Much,162000.0,267000.0,399,Toy,"Nguyen, Fleming and Chandler",Elaine Cooper
+BO74,Sci-Fi Section,10000.0,18000.0,414,Book,"Garcia, Morales and Jacobs",Alexis Smith
+TO68,Drone Particular,356000.0,486000.0,298,Toy,"Shaw, Duncan and Green",Kimberly Padilla
+BO75,Sci-Fi Study,144000.0,211000.0,352,Book,Reynolds PLC,Mrs. Jessica Matthews MD
+ST74,Stapler Down,224000.0,390000.0,475,Stationary,Flowers-Gray,Eric Davis
+ST75,Notebook There,243000.0,315000.0,157,Stationary,Benton Inc,Jose Johnson
+TO69,Barbie Doll These,418000.0,542000.0,269,Toy,Green Ltd,Andrew Nguyen
+ST76,Notebook Paper,391000.0,539000.0,368,Stationary,Young and Sons,Rebecca Wagner
+ST77,Pen Call,499000.0,759000.0,444,Stationary,Ibarra-Lopez,Richard Sims
+ST78,Scissors Necessary,180000.0,303000.0,460,Stationary,Miller-Howard,James Meyer
+BO76,Fantasy Tonight,371000.0,562000.0,261,Book,"Mathis, Butler and Hoover",Ricky Turner
+ST79,Marker Media,33000.0,50000.0,473,Stationary,"Maldonado, Bennett and Larson",Leslie Sanders
+ST80,Pen That,19000.0,27000.0,78,Stationary,Reed-Andrews,Paula Walters
+BO77,Self-help Class,220000.0,392000.0,308,Book,"Daniels, Green and Peterson",Brittney Melendez
+BO78,Sci-Fi Computer,246000.0,332000.0,416,Book,Turner-Wilson,Christina Reynolds
+TO70,Barbie Doll Alone,393000.0,678000.0,146,Toy,Herrera-Campbell,Kaylee Tran
+TO71,Barbie Doll Nice,107000.0,145000.0,89,Toy,"Richards, Walker and Vazquez",Bryan Davis
+TO72,Lego Set National,126000.0,210000.0,250,Toy,Williams-Davis,Ms. Amber Garrett
+BO79,Self-help That,233000.0,364000.0,19,Book,"Shaffer, Garner and Jones",Michelle King
+BO80,Mystery Novel Power,56000.0,78000.0,178,Book,"White, Johnson and Jones",Steven Grimes
+ST81,Scissors Big,192000.0,247000.0,200,Stationary,Walker LLC,Alyssa Guzman
+BO81,Biography Rule,286000.0,401000.0,169,Book,"Ramirez, Patterson and Smith",Richard Jefferson
+ST82,Notebook Level,117000.0,173000.0,255,Stationary,"Norris, Taylor and Garcia",Joanna Johnson
+TO73,Drone Professional,129000.0,192000.0,33,Toy,"Hansen, Chen and Flores",Erik Ewing
+BO82,Mystery Novel Skin,132000.0,215000.0,346,Book,Patel-Pena,Ashley Dixon
+BO83,Sci-Fi Measure,224000.0,324000.0,177,Book,Sullivan-Kelly,Nathan Mullen
+TO74,Drone Official,276000.0,335000.0,288,Toy,Andrews-Villegas,Amanda Turner
+BO84,Sci-Fi Month,52000.0,80000.0,23,Book,Diaz-Allen,Brenda Goodman DDS
+TO75,Scooter Shoulder,425000.0,747000.0,281,Toy,Griffin-Lara,Marcus Walls
+BO85,Biography Impact,421000.0,606000.0,198,Book,"Reynolds, Scott and Thomas",Lori Keller
+TO76,Barbie Doll Dog,398000.0,644000.0,92,Toy,"Burton, Wood and Robbins",Jessica Davis
+TO77,Barbie Doll After,169000.0,255000.0,340,Toy,Garcia-Cooper,Wesley Johnson
+ST83,Marker Increase,131000.0,169000.0,227,Stationary,Mcdonald Group,William Alexander
+ST84,Tape Get,113000.0,190000.0,479,Stationary,Campos-Green,Wanda Pearson
+TO78,Drone Seat,206000.0,294000.0,16,Toy,Brown LLC,Linda Stone
+BO86,Biography Poor,130000.0,209000.0,247,Book,Harper-Hayes,Dana Snow
+ST85,Marker Or,293000.0,498000.0,383,Stationary,"Boyd, Bradshaw and Miller",Carlos Allen
+TO79,Lego Set Expert,19000.0,28000.0,371,Toy,Schwartz-Gallegos,Laura Hunter
+TO80,Scooter Tonight,400000.0,611000.0,404,Toy,"Hall, Johnson and Aguirre",Nicole Smith MD
+ST86,Stapler Husband,168000.0,300000.0,475,Stationary,Farrell Inc,Jared Friedman
+ST87,Stapler Gas,291000.0,414000.0,223,Stationary,"Moore, Jones and Smith",Mark Neal
+TO81,Barbie Doll Allow,318000.0,517000.0,378,Toy,Black-Sparks,Krista Miller
+ST88,Tape Out,221000.0,294000.0,87,Stationary,Reyes Inc,Joshua Smith
+TO82,Scooter Stand,310000.0,393000.0,253,Toy,"Conrad, Kent and Mccarthy",Christopher Conley
+ST89,Scissors Move,422000.0,651000.0,372,Stationary,"Johnston, Perkins and Hahn",Allison Gould DDS
+BO87,Self-help Large,267000.0,425000.0,105,Book,Keith-Sanchez,Jeffrey Collins
+TO83,Barbie Doll East,57000.0,70000.0,119,Toy,Page PLC,Gary Figueroa
+TO84,Playset Set,120000.0,172000.0,183,Toy,Cook-Reynolds,Brittany Marshall
+TO85,Lego Set Into,411000.0,540000.0,475,Toy,Davis-Griffith,Stephanie Khan
+ST90,Marker Someone,311000.0,545000.0,264,Stationary,Mitchell Group,Carolyn Herrera
+TO86,Playset Red,114000.0,183000.0,327,Toy,Soto-Andrews,Sandra Rice
+BO88,Self-help Member,222000.0,349000.0,24,Book,Johnson PLC,Cassandra Kramer
+ST91,Pen Fill,279000.0,379000.0,289,Stationary,Moore-Morales,Emily King
+ST92,Marker It,16000.0,23000.0,305,Stationary,Rodriguez Inc,James Kennedy
+ST93,Notebook Catch,57000.0,69000.0,381,Stationary,"Herring, Phillips and Hurley",Kurt Graves
+BO89,Mystery Novel Expert,388000.0,639000.0,414,Book,Scott-Peters,Jasmine Castro
+TO87,RC Car Into,193000.0,300000.0,277,Toy,Lane Group,Billy Williams
+ST94,Scissors Executive,269000.0,473000.0,182,Stationary,Gonzales-Smith,Caroline Molina
+ST95,Scissors Remain,350000.0,562000.0,466,Stationary,"Murphy, Vasquez and Collier",Connor Schneider
+BO90,History Summer,485000.0,868000.0,272,Book,Gray-Taylor,Andrew Patrick
+TO88,Scooter Bill,114000.0,153000.0,280,Toy,Duffy Inc,Alan Powers
+BO91,Biography Tend,323000.0,509000.0,43,Book,Hawkins and Sons,James Parker
+ST96,Stapler Within,171000.0,241000.0,193,Stationary,"Singh, Harris and Roberts",Susan Jones
+TO89,Playset Despite,337000.0,566000.0,321,Toy,Thomas and Sons,Danielle Barry
+TO90,Scooter New,85000.0,153000.0,362,Toy,Greene Group,Robert King
+TO91,Playset Week,335000.0,519000.0,104,Toy,Gill Inc,Jaime Gibbs
+BO92,Fantasy Past,454000.0,802000.0,224,Book,Young-Goodman,Heather Gibson
+TO92,RC Car Raise,481000.0,686000.0,289,Toy,"Knox, Hernandez and Erickson",Rebecca Cole
+ST97,Stapler Situation,438000.0,699000.0,499,Stationary,"Little, Mclaughlin and Yates",Amy Reed
+TO93,Barbie Doll Now,86000.0,124000.0,149,Toy,Turner-Griffin,Lori Wilson
+BO93,Sci-Fi Figure,214000.0,324000.0,39,Book,Tucker and Sons,Shawn Rogers
+BO94,Fantasy Million,409000.0,690000.0,320,Book,Gonzalez and Sons,Dennis Moore
+ST98,Scissors Sense,387000.0,478000.0,110,Stationary,"Davis, Branch and Brown",Jamie Miller
+BO95,Biography Before,295000.0,471000.0,129,Book,Rodriguez-Hernandez,Michael Daniel
+BO96,Mystery Novel Full,338000.0,592000.0,110,Book,Baker-Miller,Carolyn Buchanan
+BO97,Fantasy I,152000.0,183000.0,56,Book,Allen PLC,Carrie Bell
+TO94,RC Car Position,341000.0,453000.0,241,Toy,Williams Group,Cynthia Rhodes
+BO98,Fantasy Social,308000.0,414000.0,292,Book,Spencer-Jackson,Emily Nash
+TO95,Playset Ago,33000.0,52000.0,47,Toy,"Griffin, Mendez and Stout",Eric Green
+TO96,Drone Join,327000.0,537000.0,216,Toy,"Espinoza, Mccarty and Velez",Grace Mccormick
+TO97,RC Car Out,283000.0,504000.0,435,Toy,Johnson and Sons,Ashley Hill
+ST99,Pen Situation,315000.0,416000.0,319,Stationary,Olson-Price,Kristen Moran
+BO99,Mystery Novel Detail,492000.0,600000.0,215,Book,Hancock-Barber,Joshua Ramirez
+ST100,Marker Term,39000.0,50000.0,175,Stationary,"Scott, Francis and Bishop",Melanie Willis
+ST101,Marker Development,194000.0,320000.0,446,Stationary,Fritz Group,David Yates
+TO98,Drone List,177000.0,217000.0,318,Toy,Garner-Fowler,Mike Patterson
+BO100,Fantasy Special,198000.0,291000.0,377,Book,Phelps Ltd,Kathryn Lara
+BO101,Mystery Novel Soldier,330000.0,513000.0,34,Book,Sullivan-Hill,Hannah Howard
+BO102,History House,164000.0,268000.0,136,Book,"Taylor, Holden and Smith",Brandy Diaz
+ST102,Stapler Wife,234000.0,288000.0,11,Stationary,Snyder-Roach,Danielle Harris
+BO103,Sci-Fi Much,80000.0,134000.0,94,Book,Henderson LLC,John Davis
+TO99,RC Car Sell,157000.0,193000.0,186,Toy,Jackson and Sons,Robert Rivera
+ST103,Notebook Bit,37000.0,64000.0,19,Stationary,Wilson Group,Rachael Willis
+ST104,Pen Produce,410000.0,702000.0,303,Stationary,Mcconnell-Woods,Scott Watson
+BO104,Sci-Fi Consider,421000.0,516000.0,473,Book,"Powers, Turner and Gray",Gerald Scott
+ST105,Notebook Turn,439000.0,572000.0,182,Stationary,Osborne-Reyes,Jill Martin
+BO105,History Face,109000.0,184000.0,226,Book,Fischer Ltd,Kelly Moore
+TO100,Drone Face,430000.0,608000.0,126,Toy,Howard and Sons,Tyler Sanchez
+TO101,Playset Matter,280000.0,473000.0,363,Toy,"Snyder, Hensley and Harris",Tommy Clark
+BO106,Mystery Novel Help,34000.0,49000.0,245,Book,"Barton, Perry and Wolfe",Kelly Nguyen
+ST106,Scissors Have,465000.0,721000.0,188,Stationary,Maynard-Davis,Tyler Hawkins
+BO107,Biography On,162000.0,206000.0,131,Book,Dunn Ltd,Cassandra Young
+TO102,Drone Writer,14000.0,20000.0,230,Toy,Harris Inc,Lisa Cline
+ST107,Marker Study,166000.0,255000.0,158,Stationary,Wilkerson-Lester,Johnny Nielsen
+BO108,Sci-Fi As,366000.0,482000.0,342,Book,"Acosta, Brewer and Collier",Debra Summers
+BO109,Self-help Hotel,80000.0,119000.0,495,Book,"Howard, Stevens and Sanchez",Caitlyn Mcgrath
+ST108,Tape They,216000.0,344000.0,25,Stationary,"Nunez, Mathis and Abbott",Alexis Thompson
+BO110,Self-help Decide,357000.0,497000.0,389,Book,"Dougherty, Brooks and Gibson",Michele Martin
+BO111,Fantasy She,44000.0,78000.0,95,Book,Kane-Arnold,Nicholas Avery
+BO112,Fantasy Next,375000.0,563000.0,274,Book,"Chavez, Duffy and Smith",Gerald Johnson
+ST109,Marker Buy,445000.0,662000.0,215,Stationary,Clark-Weber,Ashley Lynch
+TO103,Scooter Argue,452000.0,608000.0,231,Toy,Fox LLC,Lisa Barker
+BO113,Fantasy Sport,112000.0,194000.0,216,Book,Jackson-Medina,Travis Pope
+BO114,Self-help Few,122000.0,167000.0,475,Book,"Welch, Collins and Strong",Helen Lee
+ST110,Pen Official,322000.0,520000.0,25,Stationary,Evans Group,Randall Chen
+ST111,Scissors Girl,37000.0,64000.0,38,Stationary,"Wilson, Hickman and Hester",Karen George
+TO104,Lego Set Actually,312000.0,501000.0,411,Toy,"Brown, Ayers and Romero",Christopher Dixon
+ST112,Tape Scene,187000.0,231000.0,388,Stationary,Vega PLC,Jill Smith
+BO115,Mystery Novel Produce,271000.0,431000.0,316,Book,Miles and Sons,Kimberly Glenn
+TO105,Drone Religious,134000.0,199000.0,292,Toy,"Peterson, Lowe and Perry",Kim Strickland
+BO116,Biography Put,131000.0,219000.0,344,Book,Hardy Group,Alan Castro
+TO106,Scooter Summer,423000.0,736000.0,270,Toy,Hamilton-Lowery,Richard Thomas
+TO107,Barbie Doll Maybe,471000.0,782000.0,190,Toy,Fletcher-Holt,Daniel Fisher
+TO108,Playset Reality,108000.0,152000.0,470,Toy,"Morales, Calderon and Molina",Richard Velasquez
+ST113,Tape Every,99000.0,138000.0,351,Stationary,"Jones, White and Rojas",Ashley Alexander
+BO117,Fantasy Professional,356000.0,466000.0,231,Book,"Blanchard, Hoffman and Bell",Pamela Castro
+TO109,Drone Station,283000.0,470000.0,248,Toy,Hines Inc,William Hernandez
+BO118,Self-help Girl,48000.0,65000.0,99,Book,"Manning, Moore and Armstrong",Virginia Rodriguez
+ST114,Scissors Card,369000.0,561000.0,437,Stationary,"Carter, Turner and Jones",Kevin Weber
+BO119,Biography Many,106000.0,166000.0,122,Book,Roberts-Lawrence,Christopher Allen
+BO120,Self-help Enjoy,171000.0,285000.0,112,Book,Davis-Zimmerman,Amy Lynch
+BO121,Biography Commercial,23000.0,31000.0,321,Book,"Moreno, Howard and Lowery",Robin Young
+ST115,Scissors Himself,277000.0,485000.0,73,Stationary,Fleming-King,Johnny Baxter
+TO110,Playset Upon,378000.0,455000.0,301,Toy,Dougherty Inc,Michael Davis
+BO122,Biography Book,66000.0,89000.0,253,Book,Ryan LLC,Elizabeth Morris
+TO111,Playset Smile,343000.0,589000.0,347,Toy,Scott-Freeman,Shaun Lee
+ST116,Notebook Best,342000.0,574000.0,266,Stationary,Scott-Hardin,Lee Levine
+TO112,Barbie Doll Would,488000.0,840000.0,98,Toy,"Howard, Lucas and Freeman",Matthew Powell
+ST117,Notebook Reflect,494000.0,640000.0,396,Stationary,Thompson-Davis,Philip Hoover
+TO113,Lego Set Throughout,432000.0,632000.0,283,Toy,Hamilton-Bailey,Jim Hernandez
+ST118,Scissors Small,23000.0,41000.0,269,Stationary,Turner and Sons,Tina Stephens
+BO123,Fantasy Cold,273000.0,441000.0,265,Book,"Williams, Bentley and Casey",Matthew Small
+BO124,Self-help Cold,188000.0,280000.0,125,Book,James Group,Charles Perkins
+TO114,Lego Set Foot,202000.0,311000.0,363,Toy,Lopez PLC,Amy Romero
+BO125,Self-help Week,329000.0,484000.0,56,Book,"Bush, Garcia and Hart",Robin Goodwin
+BO126,Biography Little,57000.0,72000.0,93,Book,"Harris, Johnson and Stout",Michael Pittman
+ST119,Tape Chair,98000.0,162000.0,34,Stationary,Carter-Hunt,Jeremy Wallace
+BO127,Fantasy Still,87000.0,155000.0,187,Book,"Fernandez, Fuller and Clark",Sean Patel
+ST120,Notebook Family,322000.0,532000.0,163,Stationary,"Burns, Owens and Miller",David Andersen
+ST121,Pen How,213000.0,286000.0,38,Stationary,Foster-King,Brandi Larson
+BO128,Fantasy Off,221000.0,284000.0,373,Book,Wilson and Sons,Joshua Howard
+BO129,Mystery Novel Law,319000.0,573000.0,213,Book,Lang Inc,Michael Gross
+ST122,Pen Compare,477000.0,629000.0,433,Stationary,Herman-Smith,Terry Peterson
+TO115,RC Car Quickly,474000.0,844000.0,79,Toy,"Andrade, Brown and Sullivan",John Avila
+BO130,History City,14000.0,24000.0,286,Book,"Stephenson, Morgan and Smith",Robert Lee
+BO131,History Value,326000.0,448000.0,100,Book,"Ward, Williams and Watts",Sandra Perkins
+BO132,Self-help Candidate,460000.0,743000.0,148,Book,"Howell, Rios and Valdez",Daniel Miller
+BO133,Fantasy Loss,128000.0,198000.0,202,Book,Snyder Ltd,Stephen Hurley
+BO134,Biography Commercial,285000.0,370000.0,451,Book,Cochran-Wilson,Ashley Fitzgerald
+TO116,Drone Truth,6000.0,10000.0,369,Toy,Gonzalez and Sons,Michael Frazier
+BO135,Fantasy Moment,398000.0,485000.0,341,Book,Hughes-Cortez,Andrea Franco
+TO117,Lego Set Throw,353000.0,490000.0,357,Toy,Joseph Group,Danny Johnson
+TO118,Scooter Establish,356000.0,491000.0,392,Toy,"Cowan, Clark and Wilson",Chelsea Adams
+BO136,Fantasy Able,22000.0,37000.0,44,Book,"Ramos, Scott and Martinez",Clinton Williamson
+TO119,RC Car Sit,476000.0,750000.0,122,Toy,"Carrillo, Mcdonald and White",Shannon Rivera
+TO120,Lego Set Yourself,169000.0,295000.0,451,Toy,"Trujillo, Bell and Peterson",Brittney Rodriguez
+TO121,Drone Where,398000.0,675000.0,398,Toy,Duarte-Krause,Katrina Young
+ST123,Pen Issue,288000.0,517000.0,463,Stationary,Gardner-Brown,Frank Hicks
+ST124,Scissors Beyond,286000.0,495000.0,471,Stationary,"Chapman, Hernandez and Cross",Christina Ochoa
+TO122,Lego Set Travel,237000.0,332000.0,60,Toy,Khan-Davis,Jacob Wright
+BO137,Biography Ago,25000.0,44000.0,231,Book,"Erickson, Nichols and Black",James Ritter
+ST125,Notebook Thousand,266000.0,417000.0,292,Stationary,Yu Inc,Jennifer Taylor
+BO138,Mystery Novel Enter,425000.0,645000.0,333,Book,"Edwards, Ramirez and Ferguson",Pamela Boone
+ST126,Notebook Necessary,396000.0,622000.0,89,Stationary,Simon-Lane,Charles Kerr
+TO123,RC Car Me,106000.0,186000.0,437,Toy,Kennedy Ltd,Jessica Jackson
+BO139,Sci-Fi Agree,144000.0,193000.0,331,Book,"Wilkinson, Ellison and Costa",Kenneth Davis
+TO124,Scooter Sign,448000.0,761000.0,477,Toy,"Sullivan, Powers and Leach",Chris Jones
+ST127,Notebook Herself,457000.0,587000.0,384,Stationary,Jackson Ltd,Karen Freeman
+TO125,Playset Successful,191000.0,230000.0,78,Toy,Harrell-Brown,Phyllis Callahan
+BO140,Fantasy Own,491000.0,862000.0,173,Book,Sampson and Sons,Reginald Oliver
+ST128,Tape Event,40000.0,51000.0,223,Stationary,"Obrien, Nelson and Madden",Sonya Nelson
+BO141,Biography Future,38000.0,67000.0,315,Book,"Carlson, Flores and Lucas",Catherine Kelly
+TO126,Drone Authority,486000.0,731000.0,121,Toy,Schwartz and Sons,Earl Branch
+BO142,Biography Community,222000.0,385000.0,330,Book,Moody LLC,Pamela Thompson
+ST129,Stapler Capital,435000.0,669000.0,310,Stationary,"Santiago, Martinez and Macias",Steven Young
+BO143,Self-help Myself,277000.0,381000.0,19,Book,Luna Group,Lawrence Jordan
+ST130,Marker Million,103000.0,180000.0,60,Stationary,Smith and Sons,James Cordova
+BO144,Self-help Resource,493000.0,738000.0,355,Book,"Williams, Smith and Coleman",Larry Smith
+ST131,Scissors Subject,266000.0,450000.0,439,Stationary,Jenkins and Sons,Brian Martin
+BO145,Fantasy Whatever,150000.0,231000.0,75,Book,"Watson, Smith and Christensen",John Hogan
+BO146,Mystery Novel Serious,499000.0,678000.0,166,Book,"Myers, Armstrong and Lane",Bryan Stewart
+ST132,Stapler Election,40000.0,49000.0,183,Stationary,Nguyen-Allen,Cody Lopez
+TO127,Scooter Truth,194000.0,259000.0,77,Toy,"Roberts, Park and Moses",Christopher Guzman
+TO128,Scooter Consumer,211000.0,308000.0,295,Toy,"Myers, Mejia and Smith",Jill Hall
+BO147,Mystery Novel Sound,136000.0,211000.0,408,Book,Roy-Stevens,Joseph Lee
+ST133,Marker Fear,186000.0,315000.0,21,Stationary,"Davila, Garcia and Freeman",Michelle Morales
+ST134,Tape Plan,373000.0,657000.0,47,Stationary,"Solis, Newton and Sanchez",Courtney Stewart
+BO148,Fantasy He,351000.0,549000.0,250,Book,Pena-Morgan,Kelly Coleman
+ST135,Stapler Decision,123000.0,198000.0,166,Stationary,Chavez PLC,Steven Rogers
+TO129,Playset Sister,183000.0,283000.0,86,Toy,Kelley PLC,Melissa Moss
+BO149,History Baby,474000.0,571000.0,264,Book,Mclaughlin-Johnson,Eric Rodriguez MD
+TO130,Drone Provide,460000.0,573000.0,390,Toy,Wilson Group,Jeremy Smith
+BO150,History Political,426000.0,513000.0,46,Book,"Liu, Davis and Hoover",Emily Martin
+ST136,Marker Pass,185000.0,271000.0,120,Stationary,Byrd Group,Margaret Craig
+ST137,Notebook Simple,499000.0,773000.0,294,Stationary,"Ramirez, Davis and Combs",Natalie Smith
+TO131,Lego Set Two,250000.0,418000.0,88,Toy,"Smith, Morse and Kim",Melissa Becker
+ST138,Scissors College,316000.0,421000.0,105,Stationary,"Bailey, Jackson and Simpson",Kimberly Lewis
+BO151,Sci-Fi Physical,288000.0,498000.0,293,Book,Leonard PLC,Michelle Meyer
+BO152,Sci-Fi Draw,233000.0,330000.0,130,Book,Duran Group,Kyle Wade
+TO132,Playset Family,145000.0,224000.0,185,Toy,Patrick PLC,Allison Shepherd
+BO153,Self-help Reduce,478000.0,615000.0,201,Book,"Page, Suarez and Oconnor",Aaron Pope
+ST139,Tape Staff,379000.0,658000.0,320,Stationary,"Zuniga, Mora and Baker",Bianca Brown
+TO133,Scooter Cell,128000.0,201000.0,482,Toy,Cunningham-Moore,Christopher Prince
+ST140,Pen Animal,130000.0,168000.0,17,Stationary,Bradford PLC,Marilyn Morgan
+TO134,Scooter Short,304000.0,371000.0,99,Toy,Olsen-Collier,Michele Woods
+ST141,Tape Four,250000.0,438000.0,96,Stationary,"Dickson, Chambers and Ayala",Ruben Hart
+TO135,Drone Serve,334000.0,595000.0,144,Toy,"Gomez, Thompson and Reed",Stephanie Cardenas
+ST142,Tape Television,444000.0,796000.0,470,Stationary,Ford Ltd,Roy Clayton
+BO154,Biography Hear,220000.0,378000.0,266,Book,Mccullough LLC,Nancy Trevino
+BO155,Sci-Fi Though,222000.0,392000.0,425,Book,Fleming and Sons,Heather Johnson
+ST143,Stapler Capital,235000.0,318000.0,247,Stationary,"Gates, Kennedy and Brown",Paige Watson
+BO156,Self-help Us,370000.0,452000.0,190,Book,Harris-Martin,Brianna Powers
+BO157,Fantasy Effort,259000.0,378000.0,498,Book,"Webb, Owens and Coleman",Regina Jacobs
+TO136,RC Car Blue,227000.0,322000.0,440,Toy,Miller-Williams,Michael Conley
+TO137,Lego Set Before,212000.0,359000.0,383,Toy,"Hardy, Wilson and Lucas",Ryan Savage
+BO158,Self-help Reflect,268000.0,412000.0,216,Book,Case and Sons,Joseph Carroll
+TO138,Lego Set Group,277000.0,360000.0,469,Toy,Soto-Harrell,Anthony Parker
+ST144,Stapler Receive,497000.0,817000.0,434,Stationary,Bond-Brown,Nicholas Lucas
+BO159,Self-help Population,186000.0,246000.0,169,Book,"Webster, Stephenson and Lopez",Melissa Acosta
+ST145,Notebook Story,498000.0,737000.0,497,Stationary,"Terrell, Williams and Maldonado",James Allen
+TO139,Barbie Doll Purpose,200000.0,346000.0,80,Toy,"Martinez, Williams and James",Kelly Casey
+TO140,Playset Else,193000.0,290000.0,487,Toy,Hughes and Sons,Anthony Smith
+BO160,History Keep,18000.0,25000.0,113,Book,Ramirez and Sons,Jill Leblanc
+BO161,Fantasy Something,244000.0,315000.0,429,Book,"Alexander, Ford and Rodriguez",Morgan Ball
+ST146,Notebook White,438000.0,619000.0,135,Stationary,Jacobs-Cook,Charles Thomas
+BO162,Biography Enjoy,123000.0,175000.0,142,Book,White-Mccarty,Peter Walters
+BO163,Self-help Commercial,265000.0,389000.0,145,Book,"Cordova, Kelley and Cox",Elizabeth Ingram
+BO164,History Stage,431000.0,763000.0,10,Book,"Thompson, Garcia and Cooper",Brandon Pittman
+ST147,Scissors Win,205000.0,316000.0,291,Stationary,Moore-May,Elizabeth Wilson
+ST148,Marker Dark,243000.0,375000.0,455,Stationary,"Stephenson, Chan and Lynch",Joanna Gutierrez
+ST149,Pen Tough,224000.0,297000.0,80,Stationary,Parks-Johnson,Eduardo Martin
+TO141,Playset Collection,418000.0,625000.0,290,Toy,"Black, Ford and Miller",Amanda Bishop
+BO165,Self-help State,176000.0,278000.0,402,Book,"Patterson, Hughes and Ross",Grant Horton
+BO166,Biography Child,161000.0,240000.0,65,Book,Parker-Olsen,Anna Young
+TO142,Playset Financial,239000.0,386000.0,370,Toy,Valentine-Bennett,Ashley Edwards
+TO143,Lego Set Player,323000.0,441000.0,94,Toy,"Davis, Bradley and Smith",John Washington Jr.
+BO167,Biography Social,373000.0,620000.0,481,Book,Santiago PLC,Kayla Ramirez
+TO144,Barbie Doll First,120000.0,155000.0,320,Toy,"Oconnor, Martinez and Hudson",Lucas Davis
+ST150,Marker Time,158000.0,218000.0,84,Stationary,Stephenson PLC,Aaron Murphy
+BO168,Mystery Novel Too,209000.0,350000.0,303,Book,"Newton, Davies and West",Jennifer Thompson
+TO145,Lego Set Necessary,456000.0,556000.0,110,Toy,Serrano Group,Douglas Contreras
+BO169,Self-help Follow,249000.0,344000.0,295,Book,Wright-King,Michael Davis
+BO170,Fantasy Idea,143000.0,206000.0,321,Book,Wilson-Miller,Sean Sanders
+ST151,Pen Threat,166000.0,201000.0,227,Stationary,White-Torres,Justin Coleman
+ST152,Pen Hard,63000.0,92000.0,446,Stationary,Johnson LLC,Ryan Willis
+TO146,RC Car My,24000.0,32000.0,207,Toy,Ellis Group,Willie Harding
+ST153,Pen Down,177000.0,305000.0,55,Stationary,"Wallace, Brown and Anderson",Richard Williams
+ST154,Pen Within,211000.0,273000.0,57,Stationary,Farmer Group,Amy Martin
+ST155,Notebook Model,209000.0,303000.0,187,Stationary,Bond Inc,Jennifer Bass
+ST156,Notebook Travel,372000.0,581000.0,37,Stationary,"Schwartz, Alexander and Gray",Lisa Olson
+ST157,Stapler Nation,431000.0,668000.0,83,Stationary,Rodriguez LLC,Karen Hayes
+ST158,Scissors There,383000.0,621000.0,480,Stationary,Turner PLC,Zachary Thomas
+ST159,Marker Loss,420000.0,621000.0,145,Stationary,Hill Group,Maria Bush
+BO171,Self-help Understand,168000.0,296000.0,478,Book,Butler-Soto,Matthew Morrison
+BO172,Biography Door,44000.0,59000.0,64,Book,Hickman LLC,Claudia Jackson
+TO147,Playset Scene,320000.0,546000.0,115,Toy,Liu Ltd,Christine Powell
+ST160,Pen Magazine,159000.0,262000.0,330,Stationary,Gonzales and Sons,Adam Davila
+TO148,RC Car Prevent,247000.0,342000.0,428,Toy,Tucker-Chavez,Terri Black
+TO149,Lego Set Five,121000.0,209000.0,276,Toy,"Elliott, Ramirez and Baldwin",Dennis Torres
+ST161,Tape Quite,417000.0,591000.0,313,Stationary,Simmons PLC,John Campbell
+ST162,Stapler Federal,134000.0,186000.0,211,Stationary,"Marshall, Meyers and Wise",Lori Miller MD
+BO173,Self-help Experience,484000.0,605000.0,324,Book,Ashley-Thompson,Bryan Woodard
+BO174,Self-help Window,295000.0,463000.0,485,Book,Roberts-Long,Jeffrey Snyder
+BO175,Self-help Local,391000.0,594000.0,441,Book,Weber-Allen,Cassandra Navarro
+ST163,Marker Dog,313000.0,391000.0,367,Stationary,Boyd-Lowery,Tina Hernandez
+TO150,RC Car Sit,55000.0,88000.0,497,Toy,Lopez Group,Ms. Michelle Hill
+BO176,Fantasy Throughout,477000.0,706000.0,324,Book,Ball LLC,Matthew Hart
+ST164,Notebook Responsibility,389000.0,672000.0,345,Stationary,"Davis, Tapia and Collins",Theresa Velez
+TO151,RC Car Prove,231000.0,323000.0,451,Toy,"Smith, Davidson and Keith",Wesley Phillips
+TO152,Barbie Doll Education,270000.0,415000.0,477,Toy,"Chang, Spencer and Collins",Christopher Werner
+ST165,Scissors Over,491000.0,766000.0,406,Stationary,Webster-Chung,Susan Carroll
+BO177,Sci-Fi Feel,94000.0,165000.0,117,Book,Moran LLC,Cassandra Ramirez
+ST166,Pen Building,486000.0,842000.0,219,Stationary,Richardson-Richmond,Jeremy Taylor
+BO178,Mystery Novel Time,124000.0,195000.0,237,Book,"Clark, Baker and Stone",Mary Meyer
+TO153,Barbie Doll Hand,49000.0,59000.0,71,Toy,"Wood, Garner and Tate",Matthew Hernandez
+TO154,Drone Work,111000.0,198000.0,39,Toy,Singleton Ltd,Benjamin Johnson
+TO155,RC Car Simple,230000.0,313000.0,126,Toy,Morris-Fields,Dylan Silva
+ST167,Marker Check,355000.0,602000.0,298,Stationary,"Cole, Caldwell and Marsh",Daniel Taylor
+ST168,Tape Kind,184000.0,247000.0,202,Stationary,Gonzalez-Harmon,Jeremy Blackburn
+ST169,Notebook Perhaps,97000.0,127000.0,56,Stationary,Miller-Evans,Brian Richards
+TO156,Scooter Agreement,47000.0,64000.0,120,Toy,Reyes-Martinez,Laura Brown
+BO179,Sci-Fi Group,304000.0,474000.0,282,Book,Mcconnell Ltd,Walter Flores
+ST170,Marker Past,454000.0,678000.0,380,Stationary,Weber-Johnson,Thomas Berry
+TO157,Barbie Doll Both,189000.0,321000.0,407,Toy,Chavez-Solis,James Johnson
+BO180,Self-help Debate,295000.0,494000.0,336,Book,Brown-Gibson,Amanda Richards
+TO158,Drone Billion,252000.0,348000.0,457,Toy,Nelson Group,Robert Jones
+TO159,Barbie Doll Subject,220000.0,351000.0,150,Toy,Hernandez-Powell,Joshua Beck
+BO181,History Protect,399000.0,686000.0,221,Book,Craig-Williams,Tracy Palmer
+ST171,Tape Eye,273000.0,460000.0,256,Stationary,Jackson Group,Katrina Sexton
+BO182,Sci-Fi Enter,119000.0,143000.0,252,Book,"Bell, Hunt and Orozco",William Hensley
+ST172,Notebook Up,368000.0,630000.0,434,Stationary,Mcintosh-Kirby,Barbara Curtis
+BO183,Biography Determine,75000.0,93000.0,472,Book,"Zimmerman, Farrell and Burton",Eric Davis
+TO160,Drone That,451000.0,672000.0,497,Toy,"Williams, Owen and Harmon",Maurice Jones
+TO161,Playset Health,442000.0,762000.0,371,Toy,"Wyatt, Moss and Dean",Tiffany Leach
+TO162,Barbie Doll Energy,423000.0,574000.0,94,Toy,Morgan LLC,Austin Butler
+ST173,Stapler Within,288000.0,363000.0,390,Stationary,Wilson-Roberson,Barry Nichols
+TO163,Barbie Doll Week,298000.0,529000.0,156,Toy,Johnson PLC,Stephanie Mendez
+TO164,RC Car Painting,35000.0,46000.0,80,Toy,"Parker, Smith and Cole",James Wright
+TO165,Barbie Doll Finish,401000.0,574000.0,14,Toy,Wall-Hart,Edward Ball
+BO184,History Easy,340000.0,481000.0,247,Book,Simpson-Booth,Christina Mitchell
+ST174,Stapler Right,39000.0,49000.0,26,Stationary,Nguyen Group,Karla Evans
+BO185,Biography Suffer,477000.0,705000.0,496,Book,"Daniels, Castro and Brown",Brooke Parks
+ST175,Tape Customer,406000.0,667000.0,64,Stationary,Espinoza-Hart,Jamie Underwood
+BO186,History Resource,43000.0,71000.0,65,Book,"Hansen, Stevenson and Beasley",Jason Watkins
+ST176,Scissors Within,314000.0,454000.0,385,Stationary,Hernandez-Alexander,Katherine Rodriguez
+ST177,Marker Social,377000.0,514000.0,247,Stationary,Patterson-Peterson,Mrs. Teresa Turner
+TO166,Playset Listen,363000.0,653000.0,173,Toy,Anderson-Smith,Daniel Lang
+BO187,Fantasy Project,84000.0,128000.0,184,Book,Dean PLC,Bradley Morse
+TO167,Scooter Use,330000.0,556000.0,299,Toy,Brooks-Garrison,Ryan Mcgee
+BO188,Sci-Fi Might,16000.0,22000.0,459,Book,Mcdonald LLC,Denise Calhoun
+BO189,Biography Certain,423000.0,643000.0,473,Book,Jones and Sons,Jessica Peterson
+TO168,Scooter His,498000.0,635000.0,410,Toy,Palmer-Jordan,Alan Anderson
+ST178,Pen Back,363000.0,546000.0,420,Stationary,Anderson-Carter,Rebecca Cortez
+ST179,Marker Fast,420000.0,663000.0,223,Stationary,Ross-Bush,Anne Adams
+TO169,Playset Coach,431000.0,588000.0,423,Toy,Young Inc,William Spencer
+ST180,Tape Somebody,276000.0,333000.0,411,Stationary,Rodriguez-Jones,James Carter
+TO170,Lego Set Up,386000.0,667000.0,36,Toy,Acosta PLC,Morgan Velasquez
+TO171,Drone Fight,162000.0,268000.0,187,Toy,"Walker, Chandler and Reese",Edward Hernandez
+ST181,Notebook Apply,238000.0,304000.0,255,Stationary,"Robertson, Davis and Velez",Christina Nelson
+TO172,RC Car Toward,38000.0,52000.0,49,Toy,Robbins-Williams,Randy Navarro
+BO190,Self-help Everybody,208000.0,292000.0,25,Book,"Mcgee, Black and Melton",Brandon Adams
+BO191,History Well,36000.0,64000.0,35,Book,Blackwell-Price,Michael Boyd
+ST182,Scissors Human,482000.0,824000.0,89,Stationary,"Nichols, Mayo and Hamilton",Sarah Thomas
+TO173,Drone Mother,270000.0,371000.0,357,Toy,Miller Ltd,Linda Thomas
+TO174,Lego Set Small,175000.0,271000.0,443,Toy,Flores Inc,Samuel Clark
+BO192,Self-help Billion,305000.0,418000.0,89,Book,"Stewart, Atkinson and James",Michael Molina
+TO175,Drone Music,69000.0,122000.0,47,Toy,Little-Newman,Rachel Tran
+TO176,RC Car Maybe,374000.0,556000.0,407,Toy,"Hunter, White and Johnson",William Elliott
+BO193,Fantasy Piece,138000.0,194000.0,442,Book,"Evans, Gonzalez and Parsons",Amber Scott
+ST183,Stapler Investment,311000.0,415000.0,220,Stationary,"Miles, Neal and Williams",Amanda Pena
+TO177,Lego Set Size,74000.0,114000.0,191,Toy,Bennett-Johnson,Shannon Rodriguez
+ST184,Tape Population,279000.0,406000.0,319,Stationary,"Potter, Lutz and Horton",Kelly Mccormick
+BO194,Fantasy Wish,144000.0,185000.0,435,Book,Long-Wolf,Devin Patel
+TO178,Playset Pass,475000.0,571000.0,151,Toy,Rogers-Kirby,Samantha Cortez
+ST185,Scissors Various,174000.0,304000.0,411,Stationary,Robinson Ltd,Christina Miller
+BO195,Self-help Realize,471000.0,691000.0,408,Book,"Ramsey, Bryant and Johnson",Gregory Mcclure
+TO179,Lego Set When,198000.0,251000.0,193,Toy,"Morgan, Powell and Sullivan",Allison Espinoza
+BO196,Fantasy During,493000.0,604000.0,490,Book,Howard-Campbell,James Velez
+TO180,Scooter South,416000.0,662000.0,99,Toy,"Aguirre, Woods and Perez",Yvonne Mccarthy
+BO197,Self-help School,410000.0,676000.0,415,Book,Watkins-Fritz,Dana Campbell
+ST186,Stapler I,177000.0,276000.0,110,Stationary,Rivers-Osborne,Jose Brown
+ST187,Notebook Performance,34000.0,58000.0,55,Stationary,Bailey Ltd,Theodore Griffin
+BO198,Self-help Run,30000.0,46000.0,261,Book,Carlson Group,Patrick Sanders
+TO181,Scooter Forward,11000.0,16000.0,223,Toy,"Perez, Matthews and Henderson",Joshua Moore
+BO199,Self-help Should,91000.0,163000.0,455,Book,Mills-Davis,William Gallagher
+BO200,History List,89000.0,127000.0,480,Book,Hill-Lloyd,Roberto Bowen
+TO182,Lego Set Interest,107000.0,163000.0,188,Toy,Carpenter-Williams,Connie Bryant
+TO183,Barbie Doll Light,475000.0,616000.0,233,Toy,Moore-Mccann,Janice Silva
+BO201,Sci-Fi Consider,280000.0,488000.0,356,Book,Jimenez-Rosario,Amanda Mccoy
+TO184,Drone Body,324000.0,513000.0,434,Toy,Shannon PLC,Dr. Richard Flores
+ST188,Stapler Kitchen,234000.0,374000.0,452,Stationary,Johnson and Sons,Madison Fernandez
+BO202,History Try,88000.0,153000.0,476,Book,"Mitchell, Reyes and Holmes",Amber Bates
+ST189,Tape Tonight,6000.0,11000.0,288,Stationary,Thompson Inc,Pamela Williams
+ST190,Scissors Only,487000.0,617000.0,392,Stationary,Reynolds-Reid,James Flores
+TO185,Barbie Doll Rather,207000.0,289000.0,40,Toy,Leach PLC,Dwayne Banks
+BO203,Mystery Novel Safe,90000.0,156000.0,44,Book,Ray-Edwards,Emily Meyer
+TO186,Scooter This,241000.0,397000.0,440,Toy,Ortega-Mooney,Bill Young
+TO187,Barbie Doll Song,349000.0,460000.0,159,Toy,Porter-Gamble,Matthew Ramos
+TO188,Scooter Hair,306000.0,412000.0,249,Toy,Curtis and Sons,Ryan Lawson
+BO204,Fantasy Upon,156000.0,239000.0,306,Book,Vasquez-Hernandez,Timothy Wilson
+ST191,Notebook War,69000.0,108000.0,122,Stationary,"Kelley, Yates and Wells",Christina Garcia
+BO205,History Detail,398000.0,509000.0,158,Book,"Wilson, Mccall and Key",Alan Ruiz
+ST192,Pen Thought,291000.0,521000.0,155,Stationary,Hall-Davis,Lauren Cain
+BO206,Sci-Fi Suddenly,173000.0,240000.0,401,Book,Jimenez-Nunez,Jacqueline Cortez
+BO207,Fantasy Available,54000.0,96000.0,194,Book,Scott-Brown,Scott Mccarthy
+ST193,Marker Field,361000.0,461000.0,135,Stationary,"Hartman, Adams and Morgan",Jeffrey Lee
+TO189,RC Car Them,281000.0,416000.0,51,Toy,Simpson Inc,Jeffrey Spears
+ST194,Notebook From,435000.0,572000.0,81,Stationary,Torres-Delgado,Zachary Rogers
+ST195,Stapler Mother,488000.0,610000.0,464,Stationary,"Hicks, Kane and Goodman",Shelby Travis
+ST196,Scissors Behavior,19000.0,30000.0,290,Stationary,"Reed, Juarez and Burke",Samantha Moody
+ST197,Marker Cost,348000.0,486000.0,300,Stationary,"Ford, Krause and Rose",Jill Randall
+BO208,Biography Fly,180000.0,283000.0,205,Book,"Morrison, Jones and Fisher",Melinda Neal
+TO190,Playset Grow,138000.0,210000.0,480,Toy,Mcclure and Sons,Lauren Chen
+BO209,History Whether,307000.0,422000.0,83,Book,"Robles, Rodriguez and Jones",Andrew Williams
+BO210,Biography Could,344000.0,502000.0,62,Book,"Nelson, Roberts and Gamble",Sara Obrien
+BO211,Sci-Fi Hair,63000.0,111000.0,228,Book,"Edwards, Jones and Walker",Andre Swanson
+ST198,Scissors Son,274000.0,488000.0,411,Stationary,Jackson Ltd,Sierra Sanders
+BO212,Fantasy Allow,91000.0,159000.0,387,Book,"Klein, Rodriguez and Hunt",Jacob Hicks
+TO191,Lego Set Six,88000.0,140000.0,419,Toy,David Group,Jeff Lee
+TO192,Lego Set Good,330000.0,519000.0,62,Toy,Richards LLC,David Long
+ST199,Stapler Information,295000.0,485000.0,449,Stationary,Beltran Group,Michael Johnson
+TO193,Barbie Doll Establish,329000.0,536000.0,144,Toy,Baker PLC,Troy Hill
+BO213,Sci-Fi Dark,176000.0,290000.0,59,Book,Barker-Price,Isaac Hanson
+BO214,Mystery Novel Establish,485000.0,771000.0,442,Book,Jordan-Francis,Donald Hunter
+BO215,Mystery Novel My,159000.0,200000.0,37,Book,Bishop-Scott,Christopher George
+ST200,Pen A,254000.0,430000.0,401,Stationary,Smith and Sons,Stephanie Miller
+TO194,Lego Set Under,112000.0,192000.0,295,Toy,"Carter, Ramirez and Golden",Tina Jenkins
+BO216,Mystery Novel Deep,70000.0,116000.0,48,Book,Snyder-Sanchez,Nathan Kennedy
+TO195,Lego Set Term,99000.0,129000.0,232,Toy,Rodgers-Smith,Victoria Cochran
+TO196,Lego Set Character,330000.0,553000.0,296,Toy,Johnson-Davis,Wendy Martin
+ST201,Scissors Away,272000.0,461000.0,329,Stationary,Cruz-Guzman,Ashley Stevens
+TO197,Playset Sister,297000.0,402000.0,127,Toy,Mccormick Group,Emily Gibson
+ST202,Tape Garden,48000.0,59000.0,338,Stationary,Hoffman and Sons,Alexander Carrillo
+ST203,Tape Forget,258000.0,426000.0,255,Stationary,Valenzuela-Bryant,Travis Nunez
+BO217,History Free,389000.0,522000.0,314,Book,Long Group,Sherry Miller
+BO218,Self-help Rate,326000.0,570000.0,495,Book,Stone LLC,Aaron Andrews
+ST204,Marker Hope,123000.0,201000.0,497,Stationary,King-Ortiz,Lisa Boyd
+ST205,Tape Fall,286000.0,358000.0,64,Stationary,Lewis-Williams,Heather Gutierrez
+TO198,Barbie Doll Contain,70000.0,102000.0,196,Toy,Hall-Blair,Lisa Pineda
+BO219,Mystery Novel Most,423000.0,528000.0,40,Book,Howard-Gonzales,Cole Stewart
+ST206,Tape Approach,388000.0,582000.0,297,Stationary,Beard-Jackson,Adam Hurst
+TO199,Scooter Reality,380000.0,595000.0,228,Toy,Poole PLC,Lori Hahn
+TO200,Barbie Doll Member,251000.0,413000.0,293,Toy,White-Burgess,Erin Miller
+TO201,Playset Role,374000.0,668000.0,12,Toy,Rodriguez Group,John Rodriguez
+ST207,Tape Case,328000.0,408000.0,459,Stationary,"Rodriguez, Nguyen and Garza",Robert Lewis
+TO202,Playset Draw,6000.0,7000.0,443,Toy,Odonnell PLC,Jared Harrington
+ST208,Marker Value,88000.0,133000.0,88,Stationary,Mullins-Frazier,Brittany Rhodes
+TO203,Playset Travel,270000.0,485000.0,77,Toy,Patton-Cook,Rachel Brown
+TO204,Drone Others,438000.0,783000.0,157,Toy,Thomas-Gomez,Nicole Brown
+TO205,Lego Set Maintain,313000.0,562000.0,113,Toy,Myers Inc,Christine Ryan
+BO220,History Student,378000.0,555000.0,91,Book,Young and Sons,Dawn Frank
+BO221,Biography Grow,111000.0,157000.0,11,Book,Jones LLC,Leon Oneill
+BO222,Fantasy Order,399000.0,664000.0,251,Book,Williams Group,Ashley Hines
+ST209,Pen Pay,167000.0,217000.0,172,Stationary,Campbell-Carroll,Megan Wade
+BO223,Sci-Fi Military,492000.0,741000.0,215,Book,Beard-Sandoval,Billy Jones
+TO206,Barbie Doll Force,89000.0,149000.0,322,Toy,"Martinez, Flowers and Randolph",Laura Jones
+TO207,Lego Set Low,308000.0,545000.0,89,Toy,"Myers, Jones and Hanson",Luke Clark
+TO208,Playset Hit,143000.0,230000.0,310,Toy,Robinson-Rodriguez,Christopher Pittman
+TO209,Drone Eight,341000.0,498000.0,106,Toy,Green Group,Latasha Myers
+BO224,Sci-Fi Compare,178000.0,298000.0,69,Book,Moyer-Dalton,Jim Silva
+ST210,Marker Quality,396000.0,483000.0,427,Stationary,Smith Group,Julie Hurley
+TO210,Drone Student,160000.0,224000.0,83,Toy,Rodriguez LLC,Brett Jensen
+TO211,RC Car Purpose,483000.0,794000.0,375,Toy,"Bishop, Mercado and Miller",Bobby Hughes
+TO212,Scooter Glass,19000.0,33000.0,442,Toy,Vaughn-Johnson,Meagan Thompson
+TO213,RC Car Soldier,238000.0,312000.0,26,Toy,Carroll-Lin,Johnny Vincent
+TO214,Lego Set Six,246000.0,316000.0,456,Toy,Douglas-Hood,Peter Garcia
+TO215,RC Car Me,432000.0,772000.0,100,Toy,"Myers, Williams and Vang",Brandy King
+ST211,Marker Later,231000.0,363000.0,366,Stationary,"Pierce, Reid and Campbell",David Cunningham
+ST212,Scissors Look,326000.0,419000.0,150,Stationary,"Davis, Rocha and Morrison",Amber Walker
+ST213,Pen Most,376000.0,498000.0,357,Stationary,White-Hull,Arthur Cole
+ST214,Stapler Street,82000.0,127000.0,218,Stationary,"Bailey, Rollins and Solis",William Morrison
+BO225,History Probably,158000.0,251000.0,120,Book,"Johnson, Cunningham and Choi",Darrell White
+TO216,Playset Church,359000.0,598000.0,66,Toy,Cohen Inc,Stephen Jones
+TO217,Lego Set Fly,259000.0,318000.0,326,Toy,Cole-Rodriguez,Jennifer Berry
+ST215,Tape Visit,347000.0,470000.0,102,Stationary,Chapman-Odonnell,Steven Gould
+ST216,Pen Think,267000.0,359000.0,380,Stationary,Williams-Howard,Todd Lee
+TO218,Drone Marriage,45000.0,63000.0,463,Toy,Collins-Cook,Pamela Price
+ST217,Pen Back,402000.0,606000.0,192,Stationary,Horton-Evans,Andrea Wilson
+BO226,Sci-Fi Rock,236000.0,304000.0,195,Book,"Lee, Carter and Lucero",Roger Jenkins
+ST218,Marker Whole,364000.0,522000.0,332,Stationary,Murphy and Sons,Emily Barnett
+TO219,RC Car Process,140000.0,221000.0,131,Toy,Robertson Inc,Jessica Chambers
+BO227,Fantasy Total,445000.0,616000.0,452,Book,Morgan-Kelley,Michelle Curtis
+TO220,Playset Item,175000.0,253000.0,132,Toy,Ball-Ayala,Robert Sharp
+TO221,Barbie Doll Walk,122000.0,219000.0,434,Toy,"Macdonald, Mitchell and Brown",Patricia Sullivan
+ST219,Stapler Clearly,440000.0,712000.0,391,Stationary,Skinner Ltd,Alyssa Martinez
+BO228,Biography Voice,373000.0,449000.0,147,Book,"Reed, Jacobs and Reyes",Wyatt Morgan
+TO222,Playset Sort,329000.0,565000.0,51,Toy,Morris Ltd,Jesse Kemp
+ST220,Tape Investment,162000.0,276000.0,164,Stationary,Snow-Martin,Angela Mills
+TO223,Scooter How,445000.0,603000.0,181,Toy,White-Wood,Samantha Clayton
+BO229,Fantasy Republican,451000.0,762000.0,395,Book,Mendoza LLC,Jeanne Roberts
+BO230,Fantasy Why,429000.0,605000.0,329,Book,Crawford-Johnson,Mariah Jones
+BO231,Fantasy Most,29000.0,47000.0,181,Book,Blankenship-Lamb,Alexandria Woods
+TO224,Barbie Doll Commercial,297000.0,503000.0,157,Toy,Bender LLC,Jenna Davis
+ST221,Tape Develop,199000.0,341000.0,334,Stationary,"Austin, Frazier and Wilson",David Salazar
+ST222,Marker Here,76000.0,96000.0,261,Stationary,"Jones, Brown and Anderson",Pamela Lopez
+BO232,Sci-Fi Hair,279000.0,485000.0,187,Book,Pittman-Raymond,James Moore
+BO233,Fantasy Catch,434000.0,718000.0,153,Book,Brooks PLC,Ricardo Ewing
+BO234,Mystery Novel Situation,8000.0,13000.0,376,Book,"Yu, Orr and Stanley",Julian Underwood
+BO235,Biography Describe,471000.0,716000.0,139,Book,"Rogers, Pham and Gilbert",Norma Perry
+TO225,Playset Campaign,240000.0,296000.0,139,Toy,Salazar LLC,Jennifer Martin
+BO236,History Organization,457000.0,612000.0,209,Book,Ross-Castillo,Mark Jefferson
+BO237,History Wife,483000.0,639000.0,425,Book,Patterson-Maldonado,Shari Sanchez
+BO238,History Democrat,276000.0,485000.0,265,Book,"Martin, Hernandez and Knight",Michelle Johnson
+TO226,Playset Under,340000.0,445000.0,162,Toy,Ward-Williamson,Kyle Wilson
+TO227,Barbie Doll Tell,156000.0,214000.0,424,Toy,Guzman Inc,Anna Chambers
+BO239,Biography Onto,288000.0,504000.0,149,Book,"Good, Henry and Hopkins",Alyssa Webb
+BO240,Biography Dinner,298000.0,491000.0,264,Book,Austin-Gomez,Justin Olson
+TO228,RC Car Method,298000.0,436000.0,278,Toy,Sherman-Yang,Paul Campbell
+ST223,Notebook Man,351000.0,629000.0,197,Stationary,Molina Inc,Carolyn Lee
+BO241,History Successful,371000.0,571000.0,242,Book,King Group,Cameron Benitez
+ST224,Stapler Thing,182000.0,306000.0,126,Stationary,"Dudley, Garcia and Munoz",David Silva
+ST225,Stapler Ever,350000.0,563000.0,346,Stationary,Martinez LLC,Kathryn Porter
+ST226,Scissors Lead,297000.0,458000.0,419,Stationary,"Thomas, Mosley and Johnston",Amber Holder
+TO229,RC Car The,482000.0,860000.0,358,Toy,Hart-Cruz,Scott Smith
+ST227,Notebook Wind,386000.0,569000.0,88,Stationary,Montoya-Miller,Bryan Coleman
+BO242,Fantasy Especially,197000.0,266000.0,217,Book,"Mccullough, Campbell and Copeland",Matthew James
+BO243,Biography Fly,370000.0,565000.0,308,Book,Hayes-Martin,Darryl Warren
+TO230,Scooter Pick,433000.0,539000.0,481,Toy,Ashley Group,Cynthia Foster
+BO244,History As,450000.0,598000.0,227,Book,Carr Ltd,Tammy Ward
+BO245,Biography Think,109000.0,157000.0,301,Book,"Brown, Snyder and Little",Christine Stewart
+BO246,Mystery Novel Article,419000.0,741000.0,129,Book,Hammond Inc,Brittany Herring
+ST228,Pen Former,196000.0,296000.0,326,Stationary,Chandler PLC,Samuel Mack
+TO231,Barbie Doll Sea,71000.0,114000.0,35,Toy,Murray-Oneal,Andrew Hall
+BO247,Mystery Novel Congress,42000.0,71000.0,66,Book,"Cook, Bowman and Anderson",Dean Lloyd
+TO232,Barbie Doll Special,101000.0,142000.0,413,Toy,"Jackson, Estrada and Turner",Heather Martin
+BO248,Fantasy Figure,248000.0,367000.0,48,Book,Bryant PLC,Steven Solomon
+ST229,Marker Hair,454000.0,800000.0,355,Stationary,Hernandez Inc,Cindy Cunningham
+BO249,Sci-Fi Step,200000.0,253000.0,212,Book,Molina-Ochoa,Rodney Nolan
+BO250,History Clearly,381000.0,628000.0,216,Book,Miller-Davila,Jennifer Larson
+TO233,RC Car Down,227000.0,392000.0,465,Toy,Johnson-Blake,Victoria Petersen
+ST230,Scissors Rule,422000.0,749000.0,11,Stationary,Soto-Mcdonald,Anthony James
+ST231,Stapler Team,62000.0,87000.0,392,Stationary,Shaffer-Greene,Mr. Travis Rodriguez
+TO234,RC Car Baby,453000.0,546000.0,228,Toy,"Banks, Hernandez and Green",David Green
+ST232,Notebook Lose,417000.0,514000.0,261,Stationary,Scott Ltd,Joy Rivera
+BO251,Self-help So,175000.0,282000.0,130,Book,Meyer-Moore,Sarah Ray
+ST233,Tape Easy,130000.0,187000.0,384,Stationary,Herrera-Cunningham,Lance Dixon
+BO252,Self-help Population,325000.0,532000.0,281,Book,"Rodriguez, Butler and Vincent",Robin Lopez
+BO253,Biography Wonder,235000.0,407000.0,59,Book,"Nelson, Maddox and Oliver",Elizabeth Wright
+ST234,Marker Read,159000.0,238000.0,350,Stationary,Myers Group,Kevin Acosta
+TO235,RC Car Result,293000.0,401000.0,465,Toy,Baker Group,Kristen Casey
+BO254,Sci-Fi Factor,460000.0,592000.0,431,Book,"Lopez, Smith and Herrera",Susan Ho
+TO236,Playset Support,23000.0,32000.0,475,Toy,"Cabrera, Aguilar and Wallace",Martin Madden
+BO255,Fantasy Theory,146000.0,220000.0,45,Book,"Lewis, Campbell and Kim",Olivia Friedman
+BO256,History Friend,143000.0,254000.0,199,Book,Powell-Gonzalez,Melissa James
+TO237,Barbie Doll Crime,56000.0,100000.0,432,Toy,"Gilbert, Washington and Turner",Gary Tran
+BO257,Self-help Last,90000.0,121000.0,245,Book,Harrison-Griffith,Michael Webb
+BO258,Biography Wrong,412000.0,648000.0,450,Book,"Olson, Howard and Beltran",Brent Pennington
+ST235,Stapler Next,149000.0,219000.0,25,Stationary,"Johnson, Ibarra and Thompson",Amy Martinez
+ST236,Marker Small,454000.0,690000.0,251,Stationary,Thompson-Nicholson,Debbie Johnson
+ST237,Stapler Half,418000.0,630000.0,424,Stationary,Mitchell Group,David James MD
+BO259,Fantasy Theory,465000.0,718000.0,388,Book,Ballard-Barnett,Gregory Davis
+BO260,History Ok,125000.0,201000.0,298,Book,Smith-Bradley,Ellen Lindsey
+TO238,Drone Available,162000.0,251000.0,117,Toy,Vaughan Inc,Ebony Owens
+BO261,Self-help Yet,435000.0,744000.0,172,Book,Price-Obrien,Margaret Mcfarland
+ST238,Marker Relationship,86000.0,137000.0,351,Stationary,Jackson Ltd,Ashley Russell
+BO262,Biography Work,350000.0,558000.0,358,Book,"Brown, King and Pope",Valerie Fleming
+TO239,Drone Sign,34000.0,58000.0,344,Toy,Benson-Alvarez,Sara Tyler
+TO240,Barbie Doll Center,62000.0,104000.0,458,Toy,Mccarthy-Smith,Gabrielle Gonzalez
+TO241,Drone Not,223000.0,373000.0,461,Toy,"Collins, Walton and Mills",Robin Lambert
+TO242,Drone Its,349000.0,590000.0,377,Toy,Campbell-Moore,Andrew Butler
+BO263,Fantasy Catch,215000.0,343000.0,153,Book,Carr-Pittman,John Lewis
+ST239,Stapler Plant,123000.0,188000.0,343,Stationary,Galloway-Lucas,Sara Miller
+BO264,Mystery Novel Figure,342000.0,457000.0,67,Book,Macias LLC,Daniel Benton
+TO243,Playset Hand,54000.0,74000.0,404,Toy,"Kane, Sanders and Davis",Eric Hill
+TO244,Scooter Court,77000.0,121000.0,493,Toy,Klein-Donovan,Sherri Armstrong
+TO245,Playset No,246000.0,370000.0,242,Toy,Smith PLC,Gregory Bryan
+ST240,Marker None,429000.0,755000.0,198,Stationary,"Mcfarland, Anderson and Hines",Thomas Ellis
+BO265,Self-help Avoid,498000.0,675000.0,233,Book,"Russell, Miranda and Huffman",Joshua Brewer
+ST241,Marker Much,433000.0,699000.0,95,Stationary,Brown-Merritt,Michelle Singh
+TO246,Lego Set Address,352000.0,477000.0,359,Toy,Booth Inc,Emily Robertson
+BO266,Sci-Fi Dream,431000.0,667000.0,293,Book,"Ray, Clayton and Russell",Michael Mccann
+ST242,Stapler Table,346000.0,559000.0,478,Stationary,"Peterson, Wilson and Valentine",Gregory Lara
+BO267,History Black,481000.0,728000.0,140,Book,Johnson LLC,Melissa Alexander
+TO247,Scooter Occur,133000.0,182000.0,379,Toy,"Gonzalez, Brown and Scott",Heather Page
+BO268,Self-help Likely,140000.0,192000.0,122,Book,Warren Inc,Janice Michael
+BO269,History Company,316000.0,551000.0,274,Book,Baker and Sons,Michael Miller II
+TO248,Playset Every,441000.0,536000.0,106,Toy,Andrews Ltd,Donald Adams
+TO249,Playset Sure,7000.0,9000.0,18,Toy,Horn and Sons,Derek Fuller
+ST243,Tape Smile,330000.0,550000.0,57,Stationary,Molina-Martin,Lisa Ward
+ST244,Tape Structure,112000.0,166000.0,59,Stationary,Gonzalez and Sons,Anthony Gonzalez
+TO250,Playset Risk,167000.0,203000.0,482,Toy,"Thomas, Terrell and Marshall",Lisa Sullivan
+BO270,Fantasy Value,488000.0,637000.0,236,Book,Williamson-Cole,Jordan Jenkins
+BO271,Mystery Novel Piece,425000.0,534000.0,467,Book,"Evans, Moore and Kelly",Jennifer Smith
+TO251,RC Car Certainly,272000.0,355000.0,178,Toy,Garcia Inc,Devin Thompson
+BO272,Biography Case,119000.0,164000.0,126,Book,Weiss Ltd,David Nichols
+BO273,Biography Card,290000.0,396000.0,124,Book,Rodriguez-Patrick,John Miller
+BO274,Mystery Novel Hope,169000.0,262000.0,30,Book,Lopez and Sons,Casey Morrison
+BO275,History Father,148000.0,238000.0,348,Book,Phillips LLC,John Perry
+TO252,Barbie Doll Remain,40000.0,52000.0,325,Toy,Stewart-White,Keith Riley
+ST245,Stapler Wide,298000.0,509000.0,346,Stationary,Garcia Ltd,Steven Santana
+TO253,Lego Set Buy,380000.0,515000.0,352,Toy,Marsh-Reed,Jonathan Ball
+ST246,Pen Always,136000.0,209000.0,293,Stationary,Peters Group,Rodney Becker
+ST247,Pen Report,284000.0,427000.0,370,Stationary,"Dawson, Nelson and Reeves",Brent Sharp
+TO254,RC Car Say,200000.0,265000.0,455,Toy,Jensen PLC,Wanda Powers
+TO255,Drone The,93000.0,113000.0,44,Toy,Cook and Sons,Rebecca Castro
+TO256,Barbie Doll Simply,168000.0,242000.0,257,Toy,Martinez PLC,Jason Brown
+BO276,Mystery Novel Medical,263000.0,459000.0,293,Book,Mayer Group,Annette Hill
+TO257,Drone Unit,140000.0,244000.0,55,Toy,"Torres, Price and Ross",Dawn Smith
+TO258,RC Car Manager,11000.0,15000.0,70,Toy,Harris-Torres,Timothy Love
+TO259,Scooter Establish,152000.0,244000.0,100,Toy,"Ortiz, Garcia and Key",Linda Cabrera
+TO260,RC Car Drive,106000.0,186000.0,221,Toy,Smith and Sons,Joshua Hooper
+BO277,Biography Throughout,208000.0,290000.0,473,Book,Miller Ltd,Kristen Ortega
+TO261,Barbie Doll Speak,455000.0,678000.0,140,Toy,Hernandez and Sons,Matthew Morris
+BO278,Mystery Novel Rock,416000.0,532000.0,126,Book,"Sampson, Cuevas and Lewis",Kelli Gonzalez
+BO279,History Relate,57000.0,86000.0,77,Book,"Fields, Richardson and Woodward",Carrie Johnson
+BO280,History Job,19000.0,31000.0,75,Book,"Gomez, Moore and Zuniga",Nathan Mitchell
+TO262,Scooter Hope,148000.0,187000.0,495,Toy,Hanna-Blair,Christopher Patterson
+ST248,Marker Involve,68000.0,93000.0,160,Stationary,"Sampson, Chavez and Chavez",Tonya Wilson
+TO263,Barbie Doll Weight,221000.0,358000.0,108,Toy,Greene Group,James Mercado
+ST249,Scissors Close,395000.0,486000.0,266,Stationary,Brown-Malone,Amy Ryan
+BO281,Self-help President,122000.0,193000.0,104,Book,Evans-Moyer,Lauren Scott
+BO282,History Car,18000.0,26000.0,33,Book,"Brown, Taylor and Anderson",Marc Bailey
+TO264,RC Car Suffer,453000.0,737000.0,408,Toy,Stephens and Sons,Michael Oneill
+ST250,Stapler Edge,473000.0,799000.0,387,Stationary,"Chapman, Salinas and Mcguire",Sophia Barry
+ST251,Notebook Section,375000.0,553000.0,392,Stationary,Perry-Hernandez,Troy Jacobs
+ST252,Tape Produce,219000.0,264000.0,442,Stationary,Black-Brown,Lauren Smith
+ST253,Marker Board,155000.0,221000.0,314,Stationary,"Santiago, Hernandez and Rose",Tina Huang
+TO265,RC Car Write,281000.0,495000.0,243,Toy,Church and Sons,Elizabeth Reeves
+TO266,Scooter Letter,94000.0,146000.0,373,Toy,Thompson-Mills,Autumn Castillo
+TO267,Lego Set Than,442000.0,688000.0,242,Toy,"Frazier, Benson and Phillips",Javier Thomas
+BO283,Mystery Novel Including,316000.0,550000.0,366,Book,"Walters, Nunez and Nunez",Dr. Jennifer Coffey
+BO284,Mystery Novel Be,130000.0,232000.0,456,Book,"Allen, Mata and Sloan",Elizabeth Anderson
+ST254,Tape Move,79000.0,135000.0,325,Stationary,"Baker, Grant and Todd",Jessica Gomez
+TO268,Barbie Doll Company,362000.0,587000.0,186,Toy,Walker-Hunt,Suzanne Johnson
+ST255,Pen Eye,194000.0,328000.0,431,Stationary,Montoya and Sons,Matthew Perkins
+BO285,Mystery Novel Space,488000.0,677000.0,478,Book,"Adams, Williams and Watson",Charles Munoz
+ST256,Tape Happen,393000.0,536000.0,193,Stationary,Martin LLC,Seth Farmer
+ST257,Scissors Movement,337000.0,418000.0,61,Stationary,Webb-Wood,Brittany Armstrong
+ST258,Marker Wide,73000.0,112000.0,99,Stationary,"Harrison, Walker and Newman",Brandon Chandler
+BO286,History Security,479000.0,843000.0,480,Book,Chen Inc,Thomas Vazquez
+TO269,RC Car Plant,369000.0,603000.0,30,Toy,Savage-Jones,Misty Myers
+ST259,Marker Direction,410000.0,643000.0,464,Stationary,Smith LLC,Sarah Silva
+TO270,Drone Create,423000.0,684000.0,26,Toy,Martin Group,Yesenia Scott DVM
+BO287,Mystery Novel Financial,22000.0,38000.0,110,Book,Martinez-Buck,James Gomez
+TO271,Playset Behavior,196000.0,327000.0,351,Toy,Coleman-Mack,Charles Mosley
+BO288,History Argue,178000.0,274000.0,26,Book,Kaufman-Smith,Roberto Bailey
+TO272,Drone Arrive,244000.0,381000.0,193,Toy,Fletcher LLC,Lisa Escobar
+ST260,Scissors Person,77000.0,93000.0,79,Stationary,"Cortez, Harris and Pineda",John Jones
+ST261,Marker Mr,32000.0,56000.0,67,Stationary,"Buck, Sexton and Hahn",Brianna Leonard
+BO289,Self-help Again,431000.0,654000.0,346,Book,Morgan-Curry,Kenneth Campbell
+TO273,Barbie Doll Huge,148000.0,240000.0,380,Toy,"Woodard, Fuller and Barnes",Andrea James
+ST262,Stapler Develop,51000.0,67000.0,477,Stationary,Carroll-Miller,Mary Hernandez
+ST263,Notebook Carry,456000.0,789000.0,235,Stationary,"Brown, King and Reid",Angela Brown
+TO274,Barbie Doll Since,348000.0,561000.0,30,Toy,Lane and Sons,Robert Daniels
+TO275,Barbie Doll Generation,331000.0,416000.0,475,Toy,Avery-Barnett,Lindsay Brown
+TO276,Lego Set Campaign,394000.0,596000.0,430,Toy,Johnson-Alexander,Jonathan Stewart
+ST264,Stapler Artist,458000.0,752000.0,234,Stationary,Bray-Richardson,Pamela Hobbs
+ST265,Notebook Note,186000.0,289000.0,180,Stationary,Lawrence PLC,Isabel Brooks
+TO277,Playset Bit,35000.0,57000.0,352,Toy,"Morales, Nichols and Parrish",Lauren Archer
+ST266,Marker According,469000.0,776000.0,430,Stationary,Vincent-Mclaughlin,James Andrews
+ST267,Marker Involve,166000.0,289000.0,123,Stationary,Payne-Ayala,Adrienne Rosales
+ST268,Tape Country,78000.0,104000.0,183,Stationary,Holmes Group,Laura Nelson
+TO278,Barbie Doll Account,455000.0,719000.0,323,Toy,Baker Inc,Thomas Reynolds
+ST269,Tape Class,432000.0,763000.0,190,Stationary,Lawrence-Moore,Dustin Fox
+BO290,Sci-Fi Enter,430000.0,671000.0,496,Book,"Nunez, Ross and Walsh",Christopher Thompson
+TO279,Barbie Doll Service,247000.0,361000.0,44,Toy,Adams PLC,Justin Jenkins
+TO280,Drone South,248000.0,397000.0,107,Toy,Marshall-Morris,Glenda Evans
+TO281,Playset Wait,320000.0,386000.0,303,Toy,"Williams, Thompson and Stevens",Cole Rodriguez
+BO291,Sci-Fi Hold,222000.0,396000.0,483,Book,Armstrong-Castillo,Brian Perry
+BO292,Sci-Fi Relate,48000.0,86000.0,117,Book,Hines Inc,Jonathan Proctor
+BO293,Biography Paper,42000.0,54000.0,303,Book,Johnson Inc,Michael Hendricks
+ST270,Stapler Put,461000.0,705000.0,334,Stationary,"Glover, House and Rodriguez",Dorothy Baker
+BO294,Mystery Novel Minute,63000.0,89000.0,442,Book,Oconnor-Andrews,Natasha Edwards
+TO282,Lego Set Section,485000.0,623000.0,292,Toy,"Martinez, Hanson and Smith",Hannah Henry
+BO295,Biography True,17000.0,27000.0,207,Book,Jenkins Inc,Larry Wright
+BO296,Sci-Fi Speak,274000.0,458000.0,398,Book,"Pearson, Lewis and Baker",Melissa Johnson
+TO283,Lego Set She,433000.0,680000.0,202,Toy,Pearson and Sons,Timothy Harmon
+BO297,Self-help Great,172000.0,249000.0,419,Book,Mendez Group,Paul Johnson
+ST271,Pen Vote,335000.0,595000.0,82,Stationary,Bowman Group,Ryan Kennedy
+BO298,Self-help Environment,213000.0,275000.0,324,Book,Kelly and Sons,Mr. Paul Stewart
+BO299,Sci-Fi Another,176000.0,218000.0,305,Book,"Bates, Williams and Curry",Dennis Young
+ST272,Stapler Board,250000.0,342000.0,393,Stationary,"Martinez, Watts and Williams",Linda Baldwin
+BO300,Sci-Fi Discuss,250000.0,347000.0,416,Book,Brown-Fletcher,Courtney Branch
+TO284,Barbie Doll Husband,136000.0,177000.0,470,Toy,"Howard, Nguyen and Christensen",Katie Mcintosh
+BO301,Self-help Face,225000.0,357000.0,373,Book,"Murphy, Bauer and Ramos",Leah Ramirez
+TO285,Scooter Month,411000.0,528000.0,357,Toy,"Sawyer, Thompson and Jarvis",Heather Palmer
+TO286,Barbie Doll Your,305000.0,373000.0,372,Toy,Adams LLC,Jessica Freeman
+ST273,Pen Miss,214000.0,342000.0,278,Stationary,Roth-Thomas,Austin Perry
+BO302,History Region,128000.0,170000.0,169,Book,Conley-Randall,Mary Velazquez
+ST274,Stapler Will,403000.0,590000.0,335,Stationary,Lee Ltd,Michael Walsh
+ST275,Stapler Doctor,220000.0,388000.0,455,Stationary,"Douglas, Martinez and Jimenez",Jason Hernandez
+ST276,Pen Mission,135000.0,209000.0,442,Stationary,Kramer-Myers,Zachary Harris
+TO287,RC Car But,137000.0,199000.0,232,Toy,Jones and Sons,Dustin Frazier
+BO303,Self-help Avoid,340000.0,409000.0,265,Book,Miranda-Scott,Michelle Martinez
+TO288,Drone Character,347000.0,489000.0,482,Toy,Weber-Meyers,David Austin
+ST277,Pen Spring,390000.0,674000.0,324,Stationary,Bradley-Freeman,Sean Perez
+TO289,Barbie Doll Congress,237000.0,410000.0,199,Toy,Obrien-Butler,Rita Nguyen
+TO290,Playset Represent,130000.0,179000.0,178,Toy,Gray and Sons,James Middleton
+BO304,Fantasy Huge,389000.0,567000.0,120,Book,Green LLC,Melanie Hernandez
+TO291,Playset Beyond,252000.0,311000.0,453,Toy,Shaffer PLC,Kevin West
+TO292,Playset Heart,18000.0,30000.0,286,Toy,Guerra and Sons,Christian Jacobson
+BO305,History Cultural,300000.0,400000.0,292,Book,Mccoy Group,Erica Berger
+BO306,Sci-Fi Right,254000.0,319000.0,186,Book,Adkins-Skinner,Katherine Young
+TO293,Lego Set Program,403000.0,565000.0,128,Toy,"Weaver, Smith and Scott",Jessica Hernandez
+BO307,Mystery Novel Establish,39000.0,58000.0,88,Book,"Cook, Dickson and Barker",Angela Clayton
+TO294,Barbie Doll Blue,331000.0,472000.0,356,Toy,"Dawson, Hunter and Jackson",Richard Johnson
+ST278,Notebook College,421000.0,648000.0,455,Stationary,Barrera-Parsons,Tiffany Johnson
+ST279,Stapler Idea,301000.0,521000.0,499,Stationary,Johnson-Miller,Mitchell Sanders
+ST280,Pen Republican,347000.0,621000.0,36,Stationary,Rodriguez Ltd,Jessica Anderson
+ST281,Tape Hit,120000.0,147000.0,20,Stationary,Jordan and Sons,Charles James
+BO308,Sci-Fi Long,140000.0,237000.0,472,Book,Bridges-Brown,Robert Travis
+BO309,Self-help Subject,35000.0,61000.0,317,Book,"Morgan, Roberts and Thompson",Desiree Mitchell
+BO310,History Development,403000.0,647000.0,141,Book,"Mendoza, Wells and Scott",Christopher Ferrell
+BO311,Fantasy Think,295000.0,494000.0,271,Book,"James, Patterson and Smith",Kyle Allen
+BO312,History Increase,443000.0,611000.0,476,Book,Hunt Group,Katherine Wiggins
+TO295,Lego Set Camera,17000.0,26000.0,486,Toy,Sandoval PLC,Reginald Solis
+ST282,Tape American,94000.0,167000.0,286,Stationary,Johnson-Spence,Douglas Benton
+TO296,Lego Set Against,222000.0,360000.0,186,Toy,"Holloway, Duncan and Doyle",Paul Tyler
+BO313,Self-help Street,318000.0,391000.0,111,Book,Miller Ltd,Robert Jones Jr.
+TO297,Lego Set View,66000.0,112000.0,446,Toy,Anderson Group,Luke Gomez
+TO298,Playset Simple,427000.0,587000.0,99,Toy,Turner-Cabrera,Sandra Lewis
+TO299,Playset Game,117000.0,199000.0,164,Toy,Smith-Carr,Sarah Crawford
+BO314,Self-help Civil,403000.0,556000.0,457,Book,Stevenson LLC,Timothy Harris
+ST283,Scissors Wrong,358000.0,565000.0,246,Stationary,Galvan-Williams,Albert Baldwin
+BO315,Fantasy Industry,189000.0,322000.0,243,Book,Rowe Group,Laura Griffin
+TO300,Playset Point,15000.0,18000.0,15,Toy,"Henderson, Thompson and Payne",Regina Figueroa
+BO316,History With,141000.0,189000.0,448,Book,"Black, Nelson and Diaz",Ryan Kramer
+ST284,Tape System,446000.0,772000.0,328,Stationary,Duncan-Hoover,Lisa Stone
+TO301,RC Car Rate,305000.0,527000.0,285,Toy,"George, Benson and Barnes",Andrew Barrett
+BO317,History Stand,165000.0,248000.0,186,Book,"Martinez, Espinoza and Robinson",Gabriela Gilbert
+TO302,Playset Stand,242000.0,381000.0,365,Toy,"Harrington, White and Ford",David Young
+BO318,Mystery Novel Sea,497000.0,733000.0,217,Book,"Silva, Thomas and Fuentes",Dillon Hines
+ST285,Notebook Still,398000.0,560000.0,375,Stationary,Moore PLC,Kristen Adkins
+BO319,Fantasy Rather,166000.0,235000.0,118,Book,Murray-Weber,Mark Harvey
+BO320,Fantasy Lead,143000.0,245000.0,301,Book,Fox Group,John Ramsey
+BO321,Biography Southern,357000.0,555000.0,274,Book,Brady Group,Manuel Murphy
+BO322,Mystery Novel Speak,165000.0,294000.0,86,Book,Thompson-Franklin,Russell George
+ST286,Marker Little,36000.0,57000.0,390,Stationary,Brown and Sons,Donna Tran
+BO323,Fantasy Road,390000.0,528000.0,193,Book,Rivas-Ferguson,Derek Waller
+TO303,Scooter Itself,19000.0,27000.0,152,Toy,"Henderson, Reyes and Campbell",Mary Hunt
+ST287,Tape Accept,307000.0,373000.0,170,Stationary,Singleton-Yoder,Chad Morrison
+BO324,Biography Still,455000.0,777000.0,208,Book,Glenn-Ayala,Nathaniel Jones
+TO304,Drone Particularly,132000.0,211000.0,60,Toy,"Galvan, Brown and Baker",David Gibson
+ST288,Stapler Voice,355000.0,524000.0,339,Stationary,Walsh-Smith,Jean Watkins
+ST289,Marker Month,19000.0,30000.0,343,Stationary,Ryan and Sons,Justin Ayers
+BO325,Sci-Fi Better,322000.0,513000.0,440,Book,Jimenez LLC,Jennifer Collins
+BO326,Mystery Novel Store,247000.0,374000.0,88,Book,Miller LLC,Sandra Sullivan
+ST290,Tape Pass,330000.0,446000.0,437,Stationary,"Reed, Mcdonald and Cook",Kurt Vaughn
+TO305,Scooter Wonder,113000.0,155000.0,285,Toy,Flores-Johnson,Brian Wells
+BO327,Biography According,263000.0,405000.0,339,Book,"Garza, Mcmillan and Sullivan",Melissa Case
+ST291,Pen Hold,111000.0,199000.0,300,Stationary,Ray-Walker,Lauren Turner
+TO306,Playset Owner,379000.0,655000.0,298,Toy,Bartlett-Carney,Brandon Lopez
+BO328,Mystery Novel Surface,144000.0,243000.0,242,Book,Dixon PLC,Samantha Leonard
+BO329,Fantasy Above,418000.0,636000.0,147,Book,Ray Group,John Taylor
+TO307,RC Car Place,433000.0,738000.0,43,Toy,"Hutchinson, Ramirez and Turner",Jamie Cook
+ST292,Marker Room,133000.0,164000.0,363,Stationary,Johnson Ltd,Timothy Gomez
+TO308,Lego Set Wide,160000.0,209000.0,496,Toy,Clark Ltd,Miranda Carrillo
+BO330,History Should,206000.0,352000.0,15,Book,"French, Wallace and Elliott",Emily Jackson
+TO309,Barbie Doll Election,47000.0,75000.0,12,Toy,Garza LLC,Andre Davis
+TO310,Playset Machine,30000.0,42000.0,82,Toy,Carson Ltd,Nicole Harrison
+ST293,Stapler Land,46000.0,77000.0,298,Stationary,"Good, Murray and Johnson",James Harrell
+BO331,Self-help Number,15000.0,18000.0,247,Book,Bates PLC,Ian Stewart
+ST294,Notebook South,496000.0,609000.0,476,Stationary,"Jones, Lopez and Harris",Eric Kelly
+ST295,Stapler History,18000.0,28000.0,45,Stationary,Sullivan and Sons,Melinda Owens
+TO311,Scooter Reflect,192000.0,344000.0,355,Toy,"Taylor, Cunningham and Harris",Joseph Kline
+ST296,Stapler Question,495000.0,654000.0,425,Stationary,Sawyer and Sons,Dwayne Lopez
+ST297,Scissors Ago,447000.0,589000.0,181,Stationary,Bryant and Sons,Carol Robles
+ST298,Tape Generation,199000.0,313000.0,405,Stationary,Wallace and Sons,Dwayne Nash
+ST299,Marker Rather,125000.0,162000.0,232,Stationary,"Ray, Montgomery and Thomas",Rebecca Peterson
+TO312,Playset Same,250000.0,350000.0,384,Toy,Martinez Inc,Joshua Leblanc
+BO332,Sci-Fi Do,488000.0,622000.0,246,Book,Russell LLC,Natalie Reyes
+ST300,Tape Evidence,139000.0,214000.0,181,Stationary,Knight-Frazier,Kimberly Peterson
+ST301,Scissors Truth,421000.0,585000.0,139,Stationary,Lane-Nelson,Jessica Garcia
+ST302,Marker Long,345000.0,615000.0,185,Stationary,Harris-Palmer,Chelsea Perez
+TO313,Drone It,137000.0,169000.0,395,Toy,Norris Inc,Deborah Harper
+TO314,Barbie Doll Citizen,177000.0,291000.0,254,Toy,"Brown, Hill and Velez",Adam Thompson
+ST303,Tape Position,386000.0,580000.0,430,Stationary,Butler-Jones,Adam Burns
+ST304,Pen Tend,25000.0,41000.0,101,Stationary,Smith-Carter,Jennifer Petty
+TO315,Scooter Half,149000.0,184000.0,174,Toy,Dawson-Hayes,Tom Smith
+TO316,RC Car Enough,320000.0,555000.0,467,Toy,Wallace LLC,Jason Montes
+TO317,Lego Set Financial,103000.0,137000.0,337,Toy,Jenkins Inc,Kelly Jackson
+BO333,Fantasy Outside,185000.0,284000.0,476,Book,Mcdonald PLC,Robert Watts
+BO334,Self-help Wonder,193000.0,263000.0,271,Book,Duffy Ltd,Kathleen Hall
+BO335,Self-help Successful,59000.0,97000.0,84,Book,Morse-Ho,Jacob Torres
+TO318,Drone Far,108000.0,184000.0,373,Toy,Williams-Oconnor,Jeremy Lopez
+BO336,Fantasy Oil,237000.0,426000.0,262,Book,"Hall, Blankenship and Jones",Patrick French
+BO337,Self-help Country,243000.0,371000.0,428,Book,Bradshaw-Jefferson,Meghan Dixon
+TO319,Drone Reflect,32000.0,47000.0,251,Toy,Baker PLC,Steven Dunn
+TO320,RC Car Work,386000.0,528000.0,301,Toy,Tanner and Sons,Mrs. Traci Moore MD
+TO321,Scooter Someone,20000.0,30000.0,483,Toy,"Harris, Roman and Benton",Ashley Palmer
+ST305,Stapler Hit,75000.0,98000.0,189,Stationary,"Best, Taylor and Jenkins",Darryl Jefferson
+BO338,Self-help Significant,344000.0,418000.0,69,Book,Ortiz-Castro,Jennifer Rangel
+TO322,Scooter Star,419000.0,547000.0,13,Toy,Walters-Parker,David Richards
+BO339,History Range,320000.0,572000.0,378,Book,Lee-Taylor,Danielle Kane
+TO323,Lego Set Forget,159000.0,253000.0,420,Toy,Jackson-Hughes,Tara Lopez
+BO340,History Central,382000.0,664000.0,44,Book,"Pace, Williams and Williams",Patricia Ray
+ST306,Marker Gas,54000.0,75000.0,382,Stationary,Farmer-Reeves,Leslie Castillo
+ST307,Stapler Right,229000.0,358000.0,275,Stationary,Roberts-Davis,Kayla Gill
+BO341,Biography Agent,208000.0,277000.0,373,Book,Carter-Craig,Brenda Hernandez
+ST308,Pen Trip,176000.0,308000.0,271,Stationary,Harris-Berry,Andrew Silva
+BO342,Sci-Fi Stock,55000.0,88000.0,495,Book,"Hess, Bailey and Webb",Christy Simpson
+ST309,Marker While,213000.0,259000.0,482,Stationary,Diaz LLC,Christy Payne
+TO324,RC Car Newspaper,164000.0,256000.0,255,Toy,Holden Inc,Zachary Pena
+ST310,Scissors Kitchen,299000.0,452000.0,265,Stationary,Richmond-Bennett,Tammy Johnson
+BO343,Mystery Novel Vote,174000.0,257000.0,129,Book,Fowler Inc,Mary Taylor
+BO344,Mystery Novel Lose,21000.0,34000.0,170,Book,"Arias, Myers and Morgan",Adam Mendez
+TO325,Lego Set Town,226000.0,363000.0,208,Toy,"Cobb, Diaz and Jimenez",Shannon Thomas
+ST311,Stapler Teacher,486000.0,788000.0,434,Stationary,"Ortiz, Charles and Hunt",Emily Harrington
+BO345,Biography Stay,330000.0,450000.0,84,Book,Robinson PLC,Matthew Morris
+BO346,Sci-Fi Oil,388000.0,569000.0,424,Book,Curtis-Lambert,Maria Myers
+ST312,Marker Certainly,488000.0,808000.0,42,Stationary,Hayes-Henderson,Dr. Gary Harris
+BO347,Sci-Fi Fire,255000.0,441000.0,480,Book,Lee-Dudley,Kristin Mercer
+TO326,Drone Much,379000.0,615000.0,234,Toy,Sweeney-Wilson,Christopher Wilkinson
+TO327,RC Car Condition,320000.0,398000.0,370,Toy,Stewart-Le,Jessica Dixon
+BO348,Sci-Fi Investment,378000.0,497000.0,480,Book,Fry-Wheeler,David Mitchell
+BO349,Self-help Admit,168000.0,246000.0,436,Book,Dalton Ltd,Justin Peterson
+BO350,Sci-Fi Likely,313000.0,400000.0,137,Book,Shepherd Inc,Tyler Mitchell
+TO328,Playset Also,416000.0,573000.0,374,Toy,Brown and Sons,Curtis Frazier
+BO351,Mystery Novel Type,376000.0,494000.0,277,Book,"Miller, Brown and Benton",Debra Benitez
+ST313,Scissors Shoulder,83000.0,125000.0,289,Stationary,"Blevins, Valdez and Stephens",Donald James
+ST314,Notebook Figure,492000.0,595000.0,155,Stationary,White and Sons,Jerome Macdonald
+TO329,Barbie Doll Party,309000.0,479000.0,20,Toy,Allen-Tapia,Christopher Sampson
+ST315,Stapler New,246000.0,350000.0,52,Stationary,Flores-Montgomery,Jessica Turner
+TO330,RC Car Yes,232000.0,290000.0,411,Toy,Schwartz-Franklin,Dean Howard
+BO352,History Audience,437000.0,748000.0,289,Book,"West, Williams and Allen",Jeremy Hernandez
+ST316,Marker Another,179000.0,302000.0,353,Stationary,Cole-Robles,Darren Perkins
+TO331,RC Car Tell,231000.0,395000.0,224,Toy,Sparks-Reyes,Derek Long
+TO332,Drone Future,362000.0,462000.0,332,Toy,Chambers-Lee,Laura Smith
+BO353,Self-help Wish,452000.0,605000.0,474,Book,"Schwartz, Barry and Green",Christina Jones
+TO333,Lego Set Sister,162000.0,209000.0,392,Toy,"Phillips, Kelly and Terry",Amy Gonzalez
+BO354,History Behavior,338000.0,511000.0,192,Book,"Wade, Gray and Lee",Evan Peters
+ST317,Pen Guy,419000.0,553000.0,167,Stationary,Matthews PLC,Pamela Vasquez
+ST318,Stapler She,327000.0,550000.0,216,Stationary,Solis-Murphy,Brenda Wilson DDS
+TO334,Playset Small,122000.0,217000.0,27,Toy,Shaffer-Daugherty,Penny Bowman
+BO355,Biography Produce,446000.0,595000.0,115,Book,"Christensen, Smith and Moreno",Mathew Thomas
+TO335,Scooter Whom,237000.0,410000.0,255,Toy,"Villarreal, Conner and Byrd",James Mcclure
+BO356,Biography Month,95000.0,166000.0,82,Book,Porter Inc,Paul Williams
+BO357,Sci-Fi If,157000.0,281000.0,158,Book,Barber-Brooks,Nicole Garner
+BO358,Self-help Almost,354000.0,620000.0,351,Book,Hill Group,Joshua Lowery
+ST319,Notebook Teacher,285000.0,492000.0,237,Stationary,Johnson-Carter,Levi Hahn
+BO359,Fantasy Lose,408000.0,516000.0,36,Book,Matthews-Ritter,Laurie Nielsen
+ST320,Marker Glass,371000.0,629000.0,155,Stationary,"Collins, Huffman and Hensley",Michelle Wood
+TO336,Lego Set Ask,207000.0,287000.0,340,Toy,"Bowen, Mcdaniel and Cunningham",Nathan Gibson
+TO337,Lego Set Consumer,162000.0,264000.0,479,Toy,Barnes Group,Joshua Allen
+TO338,Drone Put,489000.0,732000.0,370,Toy,Ochoa LLC,George White
+ST321,Marker Floor,200000.0,355000.0,276,Stationary,Warren-Wilcox,Jeffrey Rios

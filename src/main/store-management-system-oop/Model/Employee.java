@@ -3,25 +3,20 @@ package Model;
 import java.util.Scanner;
 import History.History;
 
-public abstract class Employee {
-	protected String ID;
-    protected String name;
-    protected String email;
-    protected String password;
-    protected int department;
-    protected Option[] options;
-    protected double salary;
+public abstract class Employee extends User {
 
+    protected int department;
+    protected Option[] options; //option để cho nhân viên lựa chọn
+	private double salary;
+//phương thức khởi tạo mặc định
     public Employee() {
 
     }
-
+//constructor chứa tham số
     public Employee(String ID,String name, String email, String password, double salary) {
-        this.name = name;
-        this.email = email;
-        this.password = password;
+       	super(ID, name, email, password);
         this.salary= salary;
-        this.ID=ID;
+
     }
     
     public double getSalary() {
@@ -33,10 +28,6 @@ public abstract class Employee {
 	}
 
 	public abstract void generateOptions();
-
-    public String getName() {
-        return name;
-    }
 
     public Option[] getOptions() {
 		return options;
@@ -58,19 +49,11 @@ public abstract class Employee {
 		this.password = password;
 	}
 
-	public String getEmail() {
-        return email;
-    }
-
-    public String getPassword() {
-        return password;
-    }
-    
     public abstract int getDepartment();
 	// 0 ==> Admin
 	// 1 ==> Cashier
 	// 2 ==> Storekeeper
-    
+
     public String getDepartmentToString() {
 		String dept;
 		switch (getDepartment()) {
@@ -89,9 +72,6 @@ public abstract class Employee {
 		}
 		return dept;
 	}
-    public String getID() {
-		return ID;
-	}
 
 	public void setID(String iD) {
 		ID = iD;
@@ -108,7 +88,7 @@ public abstract class Employee {
 	public void showList(Scanner s, Database database, FinancialSystem financialSystem, History history) {
 		System.out.println("-----------------------");
 		for (int i=1; i<=options.length; i++) {
-			System.out.println(i+". "+options[i-1].getOption());
+			System.out.println(i+". "+options[i-1].getOption()); //show ra menu để đối tượng có thể chọn
 		}
 		System.out.println("-----------------------");
 		

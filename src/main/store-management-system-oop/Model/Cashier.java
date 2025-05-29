@@ -1,6 +1,6 @@
 package Model;
 
-import Controller.*;
+import Controller.Employee.*;
 
 public class Cashier extends Employee {
 	
